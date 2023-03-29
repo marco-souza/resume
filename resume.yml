@@ -1,0 +1,186 @@
+skills:
+  programming_language:
+    - tech: typescript
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
+      url: https://www.typescriptlang.org/
+    - tech: javascript
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+      url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+    - tech: go
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg
+      url: https://golang.org/
+    - tech: python
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+      url: https://www.python.org/
+    - tech: rust
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg
+      url: https://www.rust-lang.org/
+    - tech: bash
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg
+      url: https://www.gnu.org/software/bash/
+  frontend:
+    - tech: react
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
+      url: https://reactjs.org/
+    - tech: redux
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
+      url: https://redux.js.org/
+    - tech: next.js
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg
+      url: https://nextjs.org/
+    - tech: webpack
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg
+      url: https://webpack.js.org/
+    - tech: styled-components
+      logo: https://styled-components.com/logo.png
+      url: https://styled-components.com/
+    - tech: tailwind-css
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg
+      url: https://tailwindcss.com/
+    - tech: electron
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg
+      url: https://electronjs.org/
+    - tech: service-worker
+      logo: https://cdn.worldvectorlogo.com/logos/workbox-1.svg
+      url: https://developers.google.com/web/tools/workbox
+  mobile:
+    - tech: react native
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
+      url: https://reactnative.dev/
+    - tech: pwa
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg
+      url: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+    - tech: android
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg
+      url: https://www.android.com/
+    - tech: firebase
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg
+      url: https://firebase.google.com/
+    - tech: expo
+      logo: https://avatars.githubusercontent.com/u/12504344?s=200&v=4
+      url: https://expo.dev/
+    - tech: fastlane
+      logo: https://avatars.githubusercontent.com/u/11098337?s=200&v=4
+      url: https://docs.fastlane.tools/
+  backend:
+    - tech: express
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg
+      url: https://expressjs.com/
+    - tech: next.js
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg
+      url: https://nextjs.org/
+    - tech: django
+      logo: https://www.svgrepo.com/show/353657/django-icon.svg
+      url: https://www.djangoproject.com/
+    - tech: flask
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg
+      url: https://flask.palletsprojects.com/
+    - tech: prisma
+      logo: https://cdn.sanity.io/images/o0o2tn5x/production/066bc681e418978fc74c7496c47f11ecb5dd45e2-100x100.svg
+      url: https://www.prisma.io/
+    - tech: typeorm
+      logo: https://avatars.githubusercontent.com/u/20165699?s=200&v=4
+      url: https://typeorm.io/
+    - tech: sqlalchemy
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg
+      url: https://www.sqlalchemy.org/
+    - tech: graphql
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg
+      url: https://graphql.org/
+    - tech: swagger
+      logo: https://www.svgrepo.com/show/354420/swagger.svg
+      url: https://swagger.io/
+    - tech: grpc
+      logo: https://avatars.githubusercontent.com/u/7802525?s=200&v=4
+      url: https://grpc.io/
+    - tech: web sockets
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg
+      url: https://socket.io/
+  database: 
+    - tech: mongodb
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg
+      url: https://www.mongodb.com/
+    - tech: redis
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg
+      url: https://redis.io/
+    - tech: dynamodb
+      logo: https://static.cdnlogo.com/logos/a/89/aws-dynamodb.svg
+      url: https://aws.amazon.com/dynamodb/
+    - tech: postgresql
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
+      url: https://www.postgresql.org/
+    - tech: sqlite
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg
+      url: https://www.sqlite.org/index.html
+    - tech: elasticsearch
+      logo: https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt5d10f3a91df97d15/620a9ac8849cd422f315b83d/logo-elastic-vertical-reverse.svg
+      url: https://www.elastic.co/
+  tests: 
+    - tech: jest
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg
+      url: https://jestjs.io/
+    - tech: mocha
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg
+      url: https://mochajs.org/
+    - tech: pytest
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain.svg
+      url: https://pytest.org/
+    - tech: unittest
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+      url: https://docs.python.org/3/library/unittest.html
+    - tech: testing library
+      logo: https://avatars.githubusercontent.com/u/49996085?s=200&v=4
+      url: https://testing-library.com/
+    - tech: msw
+      logo: https://avatars.githubusercontent.com/u/64637271?s=200&v=4
+      url: https://mswjs.io/
+    - tech: playwright
+      logo: https://playwright.dev/img/playwright-logo.svg
+      url: https://playwright.dev/
+    - tech: junit
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg
+      url: https://junit.org/
+  devops_infra:
+    - tech: docker
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg
+      url: https://www.docker.com/
+    - tech: kubernetes
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg
+      url: https://kubernetes.io/
+    - tech: ansible
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg
+      url: https://www.ansible.com/
+    - tech: nginx
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg
+      url: https://nginx.org/
+    - tech: terraform
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain.svg
+      url: https://www.terraform.io/
+    - tech: aws_services
+      logo: https://avatars.githubusercontent.com/u/2232217?s=200&v=4
+      url: https://aws.amazon.com/
+    - tech: aws_cdk
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg
+      url: https://docs.aws.amazon.com/cdk/latest/guide/home.html
+    - tech: git
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+      url: https://git-scm.com/
+    - tech: github_actions
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
+      url: https://github.com/features/actions
+    - tech: gitlab_ci
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg
+      url: https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/
+    - tech: circle_ci
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg
+      url: https://circleci.com/
+    - tech: sentry
+      logo: https://avatars.githubusercontent.com/u/1396951?s=200&v=4
+      url: https://sentry.io/
+    - tech: datadog
+      logo: https://avatars.githubusercontent.com/u/365230?s=200&v=4
+      url: https://www.datadoghq.com/
+    - tech: elastic_stack
+      logo: https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt5d10f3a91df97d15/620a9ac8849cd422f315b83d/logo-elastic-vertical-reverse.svg
+      url: https://www.elastic.co/
+
