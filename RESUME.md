@@ -24,7 +24,7 @@ Currently, I spend my free time assisting in the development of new developers' 
 ## Most Relevant Experiences
 
 ### Tech Lead & Software Engineer, [Paradigm](https://paradigm.co)
-> 2.4y – Jan/2021 – May/2023 – New York, remote from Brazil
+> 2.4y – Singapore - remote from Brazil
 
 - Tech Lead of the Applications team
 - Develop the desktop app using Electron, React, and TypeScript.
