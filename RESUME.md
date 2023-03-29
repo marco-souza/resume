@@ -1,16 +1,5 @@
 # Marco Antônio
 
-<details>
-  <summary>🔗 Social Links</summary>
-  
-  
-  - [github.com/marco-souza](https://github.com/marco-souza)
-  - [in/masouzajunior](https://linkedin.com/in/masouzajunior)
-  - [ma.souza.junior@gmail.com](mailto://ma.souza.junior@gmail.com)
-  - [stackoverflow.com/marco-antônio](https://stackoverflow.com/marco-antônio)
-</details>
-
-
 ## About me
 
 👋 Hi, I'm Marco!
@@ -20,6 +9,15 @@ I'm a Software and Cloud Engineer, with a DevOps advocate, in contact with code 
 Most of my experience comes from building frontend-heavy applications, and working extensively with **TypeScript, Node.js, and React**. However, I enjoy wearing many hats in my career, so I have also gained interesting experience working as a Backend Engineer and Cloud Architect, creating services for high availability at great companies, including Amazon.
 
 Currently, I spend my free time assisting in the development of new developers' careers at [PodCodar](https://podcodar.com) and contributing to various Open Source Projects, such as [Deno](https://deno.land), [Fresh](https://fresh.deno.dev), and [Aleph.js](https://aleph.deno.dev).
+
+<details>
+  <summary>🔗 Social Links</summary>
+  
+  - [github.com/marco-souza](https://github.com/marco-souza)
+  - [in/masouzajunior](https://linkedin.com/in/masouzajunior)
+  - [ma.souza.junior@gmail.com](mailto://ma.souza.junior@gmail.com)
+  - [stackoverflow.com/marco-antônio](https://stackoverflow.com/marco-antônio)
+</details>
 
 ## Most Relevant Experiences
 
