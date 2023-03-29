@@ -1,12 +1,14 @@
 # Marco Antônio
 
+> Tech Lead and Software Engineer
+
 ## About me
 
-👋 Hi, I'm Marco!
+👋 Hi, I'm Marco! I'm a Software Engineer and Tech Leader with a DevOps focus. I have been involved with coding since 2009.
 
-I'm a Software and Cloud Engineer, with a DevOps advocate, in contact with code since 2009.
+While much of my experience comes mostly from building frontend-heavy applications, I have also gained interesting experience working as a backend engineer and cloud architect. In these roles, I created services for high availability at great companies, including Amazon.
 
-Most of my experience comes from building frontend-heavy applications, and working extensively with **TypeScript, Node.js, and React**. However, I enjoy wearing many hats in my career, so I have also gained interesting experience working as a Backend Engineer and Cloud Architect, creating services for high availability at great companies, including Amazon.
+I have extensive experience working with **TypeScript, Node.js, and React**, but I enjoy wearing many hats in my career.
 
 Currently, I spend my free time assisting in the development of new developers' careers at [PodCodar](https://podcodar.com) and contributing to various Open Source Projects, such as [Deno](https://deno.land), [Fresh](https://fresh.deno.dev), and [Aleph.js](https://aleph.deno.dev).
 
@@ -24,7 +26,7 @@ Currently, I spend my free time assisting in the development of new developers' 
 ### Tech Lead & Software Engineer, [Paradigm](https://paradigm.co)
 > 2.4y – Singapore - remote from Brazil
 
-- Tech Lead of the Applications team
+- Tech Lead of the Applications team, responsible for maintaining our web apps, mobile apps, and internal ops platform
 - Develop the desktop app using Electron, React, and TypeScript.
 - Create some public and private APIs using Python, Django, Flask, and Golang.
 - Work with the infra team to build and improve our QA tests & CI/CD pipelines
@@ -32,17 +34,17 @@ Currently, I spend my free time assisting in the development of new developers' 
 ### Software Development Engineer II, [Amazon](https://amazon.com)
 > 1.5y – São Paulo, SP – Brazil
 
-- Architect, develop and maintain Amazon services to integrate worldwide systems to be compliant with Brazilian legislation.
-- Provision infrastructure using CloudFormation and AWS CDK.
-- Create and maintain services in Java, Kotlin, Node.js, and Python.
-- Create and maintain micro frontend applications using TypeScript, React, WebPack, and Redux.
+- Architect, develop and maintain Amazon services to integrate worldwide systems to be compliant with Brazilian legislation
+- Provision infrastructure using CloudFormation and AWS CDK
+- Create and maintain services in Java, Kotlin, Node.js, and Python
+- Create and maintain micro frontend applications using TypeScript, React, WebPack, and Redux
 
 ### Tech Lead & Software Engineer, [SmarttBot](https://smarttBot.com)
 > 2y – Belo Horizonte, MG – Brazil
 
-- Tech Lead of the Application Team focused on creating and improving our PWA from our already existing web app
-- Developed Rest APIs with Express (BFF) and Flask (services)
-- Developed a ETL system for scrapping brazilian financial data sources using Flask, MongoDB, Redis, Selenium, Docker and SQLAlchemy
+- Tech Lead of the Application Team, focused on developing and improving our Progressive Web App for traders
+- Developed Rest APIs with Express (BFF) and Flask
+- Developed an ETL system for scrapping Brazilian financial data sources using Flask, MongoDB, Redis, Selenium, Docker, and SQL Alchemy
 
 **Other Cool Experiences:**
 
@@ -60,7 +62,7 @@ We are a technology education community that teaches programming, with a focus o
 
 Our goal is to democratize knowledge and provide access to job opportunities in the technology industry.
 
-### Talks & Bootcamps
+### Talks & Boot camps
 
 - [Deno for JS Developers](https://marco-souza.notion.site/Deno-for-developers-f2e716b0697747159071a1b4b7d2d3b8):
 Introductory bootcamp to explore Deno as a next-gen JavaScript Engine.
@@ -77,11 +79,11 @@ Meetup presentation about whether you should care about PWA over React Native.
 
 ## Technical Skills
 
-- **Programming Languages**: TypeScript, GoLang, Python, shell script, and others
-- **Frontend**: React, Redux, Next.js, Webpack, Rollup/Vite, styled-components, Tailwind, Electron, Service Worker and others
+- **Programming Languages**: TypeScript, Golang, Python, shell script, and others
+- **Frontend**: React, Redux, Next.js, Webpack, Vite, styled-components, Tailwind, Electron, Service Worker and others
 - **Mobile**: React Native, PWA, Android Native, Firebase, Expo, Fastlane
-- **Backend**: Express, Next.js, Koajs, Prisma, TypeORM, Django, Flask, SQLAlchemy, Swagger, MicroServices, GRPC, WebSockets, and others 
+- **Backend**: Express, Next.js, Koa.js, Prisma, TypeORM, Django, Flask, SQLAlchemy, Swagger, MicroServices, GRPC, Web Sockets, and others
 - **Databases**: MongoDB, Redis, DynamoDB, PostgreSQL, SQLite, Elasticsearch
 - **Tests**: Jest, mocha, pytest, unitest, @testing-library, msw, Playwright, JUnit
-- **DevOps**: Git, Github Actions, GitLab CI, Circle CI, Observability (Sentry, Datadog, Elastic Stack)
+- **DevOps**: Git, GitHub Actions, GitLab CI, Circle CI, Observability (Sentry, Datadog, Elastic Stack)
 - **Infra**: Docker, Kubernetes, Ansible, Nginx, Terraform, CDK, AWS services
