@@ -77,14 +77,13 @@ Meetup presentation about whether you should care about PWA over React Native.
   -  Undergraduate Research in Machine Learning Algorithms.
 - 2011 Tech. Sc. in Information Technology, [CEFET-MG](https://www.cefetmg.br/)
 
-## Technical Skills
+## Most Relevant Technical Skills
   
 - **Programming Languages**:
 
   <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript"></a>
   <a href="https://golang.org/" target="_blank" title="Golang"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32" height="32" alt="Golang"></a>
-  <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python"></a>
   <a href="https://www.rust-lang.org/" target="_blank" title="Rust"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="32" height="32" alt="Rust"></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32" height="32" alt="Bash"></a>
 
@@ -93,7 +92,7 @@ Meetup presentation about whether you should care about PWA over React Native.
 
   <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React"></a>
   <a href="https://redux.js.org/" target="_blank" title="Redux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="32" height="32" alt="Redux"></a>
-  <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="32" height="32" alt="Next.js"></a>
+  <a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://avatars.githubusercontent.com/u/65625612?s=200&amp;v=4" width="32" height="32" alt="Vite"></a>
   <a href="https://webpack.js.org/" target="_blank" title="Webpack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="32" height="32" alt="Webpack"></a>
   <a href="https://styled-components.com/" target="_blank" title="Styled Components"><img src="https://styled-components.com/logo.png" width="32" height="32" alt="Styled Components"></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32" alt="Tailwind CSS"></a>
@@ -113,11 +112,8 @@ Meetup presentation about whether you should care about PWA over React Native.
 
   <a href="https://expressjs.com/" title="Express" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" height="32" alt="Express"></a>
   <a href="https://nextjs.org/" title="Next.js" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="32" height="32" alt="Next.js"></a>
-  <a href="https://www.djangoproject.com/" title="Django" target="_blank"><img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="32" height="32" alt="Django"></a>
-  <a href="https://flask.palletsprojects.com/" title="Flask" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32" height="32" alt="Flask"></a>
   <a href="https://www.prisma.io/" title="Prisma" target="_blank"><img src="https://cdn.sanity.io/images/o0o2tn5x/production/066bc681e418978fc74c7496c47f11ecb5dd45e2-100x100.svg" width="32" height="32" alt="Prisma"></a>
   <a href="https://typeorm.io/" title="TypeORM" target="_blank"><img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="32" height="32" alt="TypeORM"></a>
-  <a href="https://www.sqlalchemy.org/" title="SQLAlchemy" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="32" height="32" alt="SQLAlchemy"></a>
   <a href="https://graphql.org/" target="_blank" title="GraphQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="32" height="32" alt="GraphQL"></a>
   <a href="https://swagger.io/" title="Swagger" target="_blank"><img src="https://www.svgrepo.com/show/354420/swagger.svg" width="32" height="32" alt="Swagger"></a>
   <a href="https://grpc.io/" title="gRPC" target="_blank"><img src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" width="32" height="32" alt="gRPC"></a>
@@ -135,7 +131,6 @@ Meetup presentation about whether you should care about PWA over React Native.
 - **Tests**:
 
   <a href="https://jestjs.io/" target="_blank" title="Jest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="32" height="32" alt="Jest"></a>
-  <a href="https://mochajs.org/" target="_blank" title="Mocha"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="32" height="32" alt="Mocha"></a>
   <a href="https://pytest.org/" target="_blank" title="Pytest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain.svg" width="32" height="32" alt="Pytest"></a>
   <a href="https://docs.python.org/3/library/unittest.html" target="_blank" title="Unittest"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Unittest"></a>
   <a href="https://testing-library.com/" target="_blank" title="Testing Library"><img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" width="32" height="32" alt="Testing Library"></a>
@@ -143,7 +138,7 @@ Meetup presentation about whether you should care about PWA over React Native.
   <a href="https://playwright.dev/" target="_blank" title="Playwright"><img src="https://playwright.dev/img/playwright-logo.svg" width="32" height="32" alt="Playwright"></a>
   <a href="https://junit.org/" target="_blank" title="JUnit"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="32" height="32" alt="JUnit"></a>
 
-- **DevOps & Infra**:
+- **Infra**:
 
   <a href="https://www.docker.com/" target="_blank" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker"></a>
   <a href="https://kubernetes.io/" target="_blank" title="Kubernetes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="32" height="32" alt="Kubernetes"></a>
@@ -152,6 +147,9 @@ Meetup presentation about whether you should care about PWA over React Native.
   <a href="https://www.terraform.io/" target="_blank" title="Terraform"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain.svg" width="32" height="32" alt="Terraform"></a>
   <a href="https://aws.amazon.com/" target="_blank" title="AWS services"><img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" width="32" height="32" alt="AWS services"></a>
   <a href="https://docs.aws.amazon.com/cdk/latest/guide/home.html" target="_blank" title="AWS CDK"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32" height="32" alt="AWS CDK"></a>
+ 
+- **DevOps**:
+
   <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git"></a>
   <a href="https://github.com/features/actions" target="_blank" title="GitHub Actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub Actions"></a>
   <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank" title="GitLab CI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="32" height="32" alt="GitLab CI"></a>
