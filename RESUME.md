@@ -96,6 +96,11 @@ Workers!
 - 2011 Tech. Sc. in Information Technology, [CEFET-MG](https://www.cefetmg.br/)
 
 ## I enjoy working with
+<!-- prettier-ignore -->
+<table border="0">
+  <tbody>
+  <tr>
+      <td width="500px">
 
 - **Programming Languages**:
 
@@ -124,6 +129,10 @@ Workers!
   <a href="https://www.prisma.io/" title="Prisma" target="_blank"><img src="https://cdn.sanity.io/images/o0o2tn5x/production/066bc681e418978fc74c7496c47f11ecb5dd45e2-100x100.svg" width="32" height="32" alt="Prisma"></a>
   <a href="https://typeorm.io/" title="TypeORM" target="_blank"><img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="32" height="32" alt="TypeORM"></a>
   <a href="https://grpc.io/" title="gRPC" target="_blank"><img src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" width="32" height="32" alt="gRPC"></a>
+
+</td>
+<td width="500px">
+
 
 - **Database**:
 
@@ -154,3 +163,11 @@ Workers!
   <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank" title="GitLab CI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="32" height="32" alt="GitLab CI"></a>
   <a href="https://sentry.io/" target="_blank" title="Sentry"><img src="https://avatars.githubusercontent.com/u/1396951?s=200&v=4" width="32" height="32" alt="Sentry"></a>
   <a href="https://www.datadoghq.com/" target="_blank" title="Datadog"><img src="https://avatars.githubusercontent.com/u/365230?s=200&v=4" width="32" height="32" alt="Datadog"></a>
+
+</td>
+</tr>
+
+  </tbody>
+</table>
+
+
