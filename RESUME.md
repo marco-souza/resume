@@ -96,6 +96,7 @@ Workers!
 - 2011 Tech. Sc. in Information Technology, [CEFET-MG](https://www.cefetmg.br/)
 
 ## I enjoy working with
+
 <!-- prettier-ignore -->
 <table border="0">
   <tbody>
@@ -133,7 +134,6 @@ Workers!
 </td>
 <td width="500px">
 
-
 - **Database**:
 
   <a href="https://redis.io/" target="_blank" title="Redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32" height="32" alt="Redis"></a>
@@ -167,7 +167,5 @@ Workers!
 </td>
 </tr>
 
-  </tbody>
+</tbody>
 </table>
-
-
