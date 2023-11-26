@@ -4,13 +4,13 @@
 
 ## About me
 
-👋 Hi, I'm Marco! I'm a Software Engineer and Tech Leader with a DevOps focus. I have been involved with coding since 2009.
+👋 Hi, I'm Marco!
 
-While much of my experience comes mostly from building frontend-heavy applications, I have also gained interesting experience working as a backend engineer and cloud architect. In these roles, I created services for high availability at great companies, including Amazon.
+I'm a **Senior Software Engineer** at [Able](https://able.co) with a special love for the **DevOps Culture**. 
 
-I have extensive experience working with **TypeScript, Node.js, and React**, but I enjoy wearing many hats in my career.
+I have been in touch with programming **since 2009** and I consider myself a **proficient developer** capable of building and maintaining **production-grade** web applications. I am highly skilled in the **TypeScript** stack, but I can also develop applications in many other environments, such as Python, Golang, Java, and Kotlin.
 
-Currently, I spend my free time assisting in the development of new developers' careers at [PodCodar](https://podcodar.com) and contributing to various Open Source Projects, such as [Deno](https://deno.land), [Fresh](https://fresh.deno.dev), and [Aleph.js](https://aleph.deno.dev).
+Besides working and contributing to open-source projects, I’m also a mentor and career advisor for new developers at [PodCodar](https://podcodar.com), a free Digital Learning Community I co-founded with some friends to train and educate the next-generation work Digital Workers.
 
 <details>
   <summary>🔗 Social Links</summary>
@@ -23,33 +23,30 @@ Currently, I spend my free time assisting in the development of new developers' 
 
 ## Most Relevant Experiences
 
+### Senior Software Engineer, [Able](https://able.co)
+> May/2023 – Present – New York - remote from Brazil
+
+- Software Engineer at Caring team, responsible for maintaining the CRM, which works as a back-office application for managing B2C and B2B interactions
+- Develop the desktop app using React, Next.js, Chakra, and TypeScript.
+- Create public and private APIs using Node.JS, Nest.js, Kafka, PostgreSQL, and Redis.
+- Help to develop our infra using AWS, Terraform, and GitHub Actions. 
+
 ### Tech Lead & Software Engineer, [Paradigm](https://paradigm.co)
-> 2.4y – Singapore - remote from Brazil
+> 2.4y – New York - remote from Brazil
 
 - Tech Lead of the Applications team, responsible for maintaining our web apps, mobile apps, and internal ops platform
 - Develop the desktop app using Electron, React, and TypeScript.
 - Create some public and private APIs using Python, Django, Flask, and Golang.
-- Work with the infra team to build and improve our QA tests & CI/CD pipelines
 
 ### Software Development Engineer II, [Amazon](https://amazon.com)
 > 1.5y – São Paulo, SP – Brazil
 
-- Architect, develop and maintain Amazon services to integrate worldwide systems to be compliant with Brazilian legislation
-- Provision infrastructure using CloudFormation and AWS CDK
+- Architect, develop, and maintain Amazon services to integrate worldwide systems to be compliant with Brazilian legislation
 - Create and maintain services in Java, Kotlin, Node.js, and Python
-- Create and maintain micro frontend applications using TypeScript, React, WebPack, and Redux
-
-### Tech Lead & Software Engineer, [SmarttBot](https://smarttBot.com)
-> 2y – Belo Horizonte, MG – Brazil
-
-- Tech Lead of the Application Team, focused on developing and improving our Progressive Web App for traders
-- Developed Rest APIs with Express (BFF) and Flask
-- Developed an ETL system for scrapping Brazilian financial data sources using Flask, MongoDB, Redis, Selenium, Docker, and SQL Alchemy
+- Create and maintain micro frontend applications using TypeScript, React, webpack, and Redux 
 
 **Other Cool Experiences:**
-
-- Software Engineer, [Quorum](https://quorum.us) (former [GovPredict](https://govpredict.com)), between May/2019 to Oct/2019
-- Full-Stack Engineer and Tech Lead at [Inkitt](https://inkitt.com), between Nov/2017 to Mar/2018
+- 2y - Tech Lead & Software Engineer at [SmarttBot](https://smarttbot.com)
 - More in my [LinkedIn](https://linkedin.com/in/masouzajunior)
 
 
@@ -58,14 +55,14 @@ Currently, I spend my free time assisting in the development of new developers' 
 ### PodCodar
 > [podcodar.com](https://podcodar.com)  
 
-We are a technology education community that teaches programming, with a focus on training professionals.
+We are a Digital Learning Community. We offer study roadmaps, mentorship programs, meetups, Summer school courses, and much more, all for **free**.
+We aim to unleash the knowledge and educate the next generation of great Digital Workers!
 
-Our goal is to democratize knowledge and provide access to job opportunities in the technology industry.
 
 ### Talks & Boot camps
 
 - [Deno for JS Developers](https://marco-souza.notion.site/Deno-for-developers-f2e716b0697747159071a1b4b7d2d3b8):
-Introductory bootcamp to explore Deno as a next-gen JavaScript Engine.
+Introductory boot camp for exploring Deno as a next-gen JavaScript Engine.
 
 - [React Native vs PWA](https://github.com/marco-souza) #pt-BR 
 Meetup presentation about whether you should care about PWA over React Native.
