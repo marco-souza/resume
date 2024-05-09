@@ -85,8 +85,17 @@ TremTec helps startups and small companies to grow by identifying their customer
 
 
 ## Let's take a ☕️:
+<p class="flex gap-2">
+  <a href="https://www.codementor.io/@masjr?refer=badge">
+    <img src="https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg" title="Contact me on Codementor" />
+  </a>
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg)](https://www.codementor.io/@masjr?refer=badge)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/masouzajunior)
-[![StackOverlfow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/7988674/marco-ant%c3%b4nio)
+  <a href="https://linkedin.com/in/masouzajunior">
+    <img src="https://skillicons.dev/icons?i=linkedin" title="Linkedin" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/7988674/marco-ant%c3%b4nio">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" title="StackOverlfow" />
+  </a>
+</p>
 
