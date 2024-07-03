@@ -14,7 +14,7 @@ Besides working and contributing to open-source projects, I’m also a mentor an
 
 ## Most Relevant Experiences
 
-### Senior Software Development Engineer [@MongoDB](https://mongodb.com)
+### Sr Software Development Engineer [@MongoDB](https://mongodb.com)
 
 > Apr/2024 – present – NY, Remote from Brazil
 
