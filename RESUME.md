@@ -1,6 +1,6 @@
 # Marco Antônio
 
-> Senior Software Development Engineer at [@MongoDB](https://mongodb.com)
+> Sr Software Development Engineer [@MongoDB](https://mongodb.com)
 
 ## About me
 
@@ -16,15 +16,16 @@ Besides working and contributing to open-source projects, I’m also a mentor an
 
 ### Senior Software Development Engineer [@MongoDB](https://mongodb.com)
 
-> Apr/2024 – present – Remote from Brazil
+> Apr/2024 – present – NY, Remote from Brazil
 
-- Senior Software Engineer on the Digital Growth team
-- Develop WebApps using Next.js, TypeScript, Tailwindcss, and Headless CMS.
-- Build automation around our release and page migration processes
+- Deployment Lead for Growth Marketing tech teams
+- Developing automation to release process and CMS Migration
+- Maintaining all pages under `mongodb.com` domain using
+- Create the infrastructure needed for our apps and team processes
 
 ### Tech Lead // Software Engineer [@Paradigm](https://paradigm.co)
 
-> 2.4y – New York - remote from Brazil
+> 2.4y – New York - NY, Remote from Brazil
 
 - Tech Lead of the Applications team, responsible for maintaining our web apps,
   mobile apps, and internal ops platform
@@ -51,7 +52,7 @@ Besides working and contributing to open-source projects, I’m also a mentor an
 
 ### PodCodar - [podcodar.com](https://podcodar.com)
 
-PodCodar is a FREE, non-profit community here to guide and support you on your journey to becoming a qualified digital professional. Whether you aspire to be a Software Engineer, Data Engineer, UX/UI Designer, or Product Owner, we've got you covered.
+PodCodar is a FREE, non-profit community that guides and supports people in their journey to becoming a qualified digital professional. Whether you aspire to be a Software Engineer, Data Engineer, UX/UI Designer, or Product Owner, we've got you covered.
 
 
 ### TremTec - [tremtec.com](https://tremtec.com)
@@ -96,6 +97,10 @@ TremTec helps startups and small companies to grow by identifying their customer
 
   <a href="https://stackoverflow.com/users/7988674/marco-ant%c3%b4nio">
     <img src="https://skillicons.dev/icons?i=stackoverflow" title="StackOverlfow" />
+  </a>
+  
+  <a href="https://github.com/marco-souza">
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   </a>
 </p>
 
