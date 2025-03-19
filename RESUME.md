@@ -1,22 +1,24 @@
 # Marco Antônio
 
-> Sr Software Development Engineer [@MongoDB](https://mongodb.com)
+> 👨‍💻 Software Engineer & Solutions Architect - [@MongoDB](https://mongodb.com) <br>
+> 🎨 Code Craftsman & Mentor - [@PodCodar](https://podcodar.org) <br>
+> 🐈‍⬛ Cat daddy & DJ - [@home](127.0.0.1)
 
 ## About me
 
 👋 Hi, I'm Marco! 
 
-I'm a Senior Software Development Engineer at [MongoDB](https://mongodb.com) with a special love for building tools, automating things, and spreading the DevOps Culture. 
+I'm currently a Senior SDE and Solutions Architect at [MongoDB](https://mongodb.com), with a special love for building tools, automating everything, and spreading the DevOps Culture. 
 
 I have been in touch with programming **since 2009** and consider myself a **proficient developer** capable of building and maintaining **production-grade** web applications. I am highly skilled in the **TypeScript** stack, but I also have experience building applications in many other environments, such as Python, Golang, Lua, Java, and Kotlin.
 
-Besides working and contributing to open-source projects, I’m also a mentor and career advisor for new developers at [PodCodar](https://podcodar.com), a free Digital Learning Community I co-founded with some friends to train and educate the next generation of Digital Workers.
+Besides working and contributing to open-source projects, I’m also a mentor, code craftsman, and career advisor for new developers at [PodCodar](https://podcodar.com), which is a Non-Profit Community that helps people build their careers in a Digital Word.
 
 ## Most Relevant Experiences
 
 ### Sr Software Development Engineer [@MongoDB](https://mongodb.com)
 
-> Apr/2024 – present – NY, Remote from Brazil
+> +1y - Apr/2024 – present – NY, Remote from Brazil
 
 - Deployment Lead for Growth Marketing tech teams
 - Developing automation to release process and CMS Migration
