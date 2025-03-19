@@ -16,16 +16,15 @@ Besides working and contributing to open-source projects, I’m also a mentor, c
 
 ## Most Relevant Experiences
 
-### Sr Software Development Engineer [@MongoDB](https://mongodb.com)
+### Sr Software Development Engineer - [@MongoDB](https://mongodb.com)
 
 > +1y - Apr/2024 – present – NY, Remote from Brazil
 
-- Deployment Lead for Growth Marketing tech teams
-- Developing automation to release process and CMS Migration
-- Maintaining all pages under `mongodb.com` domain using
-- Create the infrastructure needed for our apps and team processes
+- Maintain all web apps under `mongodb.com` domain
+- Discover, Design, and Implement improvements to Software Development Lifecycle (SDLC)
+- Review and guide technical discoveries and investigations
 
-### Tech Lead // Software Engineer [@Paradigm](https://paradigm.co)
+### Technical Lead - Software Engineer - [@Paradigm](https://paradigm.co)
 
 > 2.4y – New York - NY, Remote from Brazil
 
@@ -34,11 +33,11 @@ Besides working and contributing to open-source projects, I’m also a mentor, c
 - Develop the desktop app using Electron, React, and TypeScript.
 - Create API endpoints and services using Python, Django, Flask, and Golang.
 
-### Software Development Engineer II [@Amazon](https://amazon.com)
+### Software Development Engineer II - [@Amazon](https://amazon.com)
 
 > 1.5y – São Paulo, SP – Brazil
 
-- Architect, develop and maintain Amazon services to integrate worldwide
+- Design, develop, and maintain Amazon services to integrate worldwide
   systems to be compliant with Brazilian legislation
 - Create and maintain services in Java, Kotlin, Node.js, and Python
 - Create and maintain micro frontend applications using TypeScript, React,
@@ -46,18 +45,19 @@ Besides working and contributing to open-source projects, I’m also a mentor, c
 
 **Other Cool Experiences:**
 
-- 1y - Senior Software Engineer at [@Able](https://able.co)
-- 2y - Tech Lead & Software Engineer at [@SmarttBot](https://smarttbot.com)
-- Check the full working history at my [LinkedIn](https://linkedin.com/in/masouzajunior)
+- 1y - Senior Software Engineer - [@Able](https://able.co)
+- 2y - Team Lead & Software Engineer - [@SmarttBot](https://smarttbot.com)
+
+Check the complete work history at my [LinkedIn](https://linkedin.com/in/masouzajunior)
 
 ## My Projects
 
-### PodCodar - [podcodar.com](https://podcodar.com)
+### [PodCodar](https://podcodar.com)
 
 PodCodar is a FREE, non-profit community that guides and supports people in their journey to becoming a qualified digital professional. Whether you aspire to be a Software Engineer, Data Engineer, UX/UI Designer, or Product Owner, we've got you covered.
 
 
-### TremTec - [tremtec.com](https://tremtec.com)
+### [TremTec](https://tremtec.com)
 
 TremTec helps startups and small companies to grow by identifying their customer needs, technology, and organizational challenges. We then plan a roadmap and implementation strategy to resolve these issues according to our customer's priorities. Our team works closely with our partners to deliver high-quality products with amazing experiences!
 
