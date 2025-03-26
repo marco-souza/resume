@@ -53,11 +53,9 @@ Check the complete work history at my [LinkedIn](https://linkedin.com/in/masouza
 
 PodCodar is a FREE, non-profit community that guides and supports people in their journey to becoming a qualified digital professional. Whether you aspire to be a Software Engineer, Data Engineer, UX/UI Designer, or Product Owner, we've got you covered.
 
-
 ### [TremTec](https://tremtec.com)
 
 TremTec helps startups and small companies grow by identifying their customer's needs, technology, and organizational challenges. We then plan a roadmap and implementation strategy to resolve these issues according to our customer's priorities. Our team works closely with our partners to deliver high-quality products with amazing experiences!
-
 
 ## Education & Certifications
 
@@ -67,12 +65,15 @@ TremTec helps startups and small companies grow by identifying their customer's 
 - 2011 Tech. Sc. in Information Technology, [CEFET-MG](https://www.cefetmg.br/)
 
 ## Most used Languages
+
 [![My Skills](https://skillicons.dev/icons?i=go,ts,js,py,lua)]()
 
-### Some experience with...
+### I have experience with...
+
 [![My Skills](https://skillicons.dev/icons?i=rust,c,java,kotlin)]()
 
-## Tools I like to work with...
+### Tools I like to work with...
+
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,neovim,bash)]()
 
 [![Front-end](https://skillicons.dev/icons?i=react,next,tailwind,jest,selenium)]()
