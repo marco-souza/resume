@@ -40,7 +40,7 @@ Besides working and contributing to open-source projects, I’m also a mentor, c
 - Create and maintain services in Java, Kotlin, Node.js, and Python
 - Create and maintain micro frontend applications using TypeScript, React, webpack, and Redux
 
-**Other Cool Experiences**
+### Other Cool Experiences
 
 - 1y - Senior Software Engineer - [@Able](https://able.co)
 - 2y - Team Lead & Software Engineer - [@SmarttBot](https://smarttbot.com)
@@ -81,8 +81,8 @@ TremTec helps startups and small companies grow by identifying their customer's 
 
 [![Storage](https://skillicons.dev/icons?i=postgres,dynamodb,kafka,redis,mongo,elasticsearch)]()
 
+## Let's grab a ☕️:
 
-## Let's take a ☕️:
 <p class="flex gap-2">
   <a href="https://www.codementor.io/@masjr?refer=badge">
     <img src="https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg" title="Contact me on Codementor" />
