@@ -21,7 +21,7 @@ Besides working and contributing to open-source projects, I’m also a mentor, c
 > +1y - Apr/2024 – present – NY, Remote from Brazil
 
 - Maintain all web apps under `mongodb.com` domain
-- Discover, Design, and Implement improvements to Software Development Lifecycle (SDLC)
+- Discover, design, and implement improvements to our Software Development Lifecycle (SDLC)
 - Review and guide technical discoveries and investigations
 
 ### Technical Lead - Software Engineer - [@Paradigm](https://paradigm.co)
@@ -43,7 +43,7 @@ Besides working and contributing to open-source projects, I’m also a mentor, c
 - Create and maintain micro frontend applications using TypeScript, React,
   webpack, and Redux
 
-**Other Cool Experiences:**
+**Other Cool Experiences**
 
 - 1y - Senior Software Engineer - [@Able](https://able.co)
 - 2y - Team Lead & Software Engineer - [@SmarttBot](https://smarttbot.com)
@@ -59,15 +59,13 @@ PodCodar is a FREE, non-profit community that guides and supports people in thei
 
 ### [TremTec](https://tremtec.com)
 
-TremTec helps startups and small companies to grow by identifying their customer needs, technology, and organizational challenges. We then plan a roadmap and implementation strategy to resolve these issues according to our customer's priorities. Our team works closely with our partners to deliver high-quality products with amazing experiences!
+TremTec helps startups and small companies grow by identifying their customer's needs, technology, and organizational challenges. We then plan a roadmap and implementation strategy to resolve these issues according to our customer's priorities. Our team works closely with our partners to deliver high-quality products with amazing experiences!
 
 
 ## Education & Certifications
 
-- 2020 AWS Certified,
-  [Cloud Practitioner](https://www.credly.com/badges/3e20fa2f-07c9-40aa-b486-9fbdaaef40fb?source=linked_in_profile)
-- 2016 B.Sc. in Computational Mathematics,
-  [Federal University of Minas Gerais](https://ufmg.br/)
+- 2020 AWS Certified, [Cloud Practitioner](https://www.credly.com/badges/3e20fa2f-07c9-40aa-b486-9fbdaaef40fb?source=linked_in_profile)
+- 2016 B.Sc. in Computational Mathematics, [Federal University of Minas Gerais](https://ufmg.br/)
   - Undergraduate Research in Machine Learning Algorithms.
 - 2011 Tech. Sc. in Information Technology, [CEFET-MG](https://www.cefetmg.br/)
 
