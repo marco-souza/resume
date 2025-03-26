@@ -12,7 +12,7 @@ I'm currently a Senior SDE and Solutions Architect at [MongoDB](https://mongodb.
 
 I have been in touch with programming **since 2009** and consider myself a **proficient developer** capable of building and maintaining **production-grade** web applications. I am highly skilled in the **TypeScript** stack, but I also have experience building applications in many other environments, such as Python, Golang, Lua, Java, and Kotlin.
 
-Besides working and contributing to open-source projects, I’m also a mentor, code craftsman, and career advisor for new developers at [PodCodar](https://podcodar.com), which is a Non-Profit Community that helps people build their careers in a Digital Word.
+Besides working and contributing to open-source projects, I’m also a mentor, code craftsman, and career advisor for new developers at [PodCodar](https://podcodar.com), which is a Non-Profit Community that helps people build their careers in a Digital world.
 
 ## Most Relevant Experiences
 
@@ -28,8 +28,7 @@ Besides working and contributing to open-source projects, I’m also a mentor, c
 
 > 2.4y – New York - NY, Remote from Brazil
 
-- Tech Lead of the Applications team, responsible for maintaining our web apps,
-  mobile apps, and internal ops platform
+- Tech Lead of the Applications team, responsible for maintaining our web apps, mobile apps, and internal ops platform
 - Develop the desktop app using Electron, React, and TypeScript.
 - Create API endpoints and services using Python, Django, Flask, and Golang.
 
@@ -37,11 +36,9 @@ Besides working and contributing to open-source projects, I’m also a mentor, c
 
 > 1.5y – São Paulo, SP – Brazil
 
-- Design, develop, and maintain Amazon services to integrate worldwide
-  systems to be compliant with Brazilian legislation
+- Design, develop, and maintain Amazon services to integrate worldwide systems to be compliant with Brazilian legislation
 - Create and maintain services in Java, Kotlin, Node.js, and Python
-- Create and maintain micro frontend applications using TypeScript, React,
-  webpack, and Redux
+- Create and maintain micro frontend applications using TypeScript, React, webpack, and Redux
 
 **Other Cool Experiences**
 
