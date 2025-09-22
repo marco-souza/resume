@@ -1,18 +1,17 @@
-# Marco Antônio
+# Marco Souza
 
 > 👨‍💻 Software Engineer & Solutions Architect - [@MongoDB](https://mongodb.com) <br>
 > 🎨 Code Craftsman & Mentor - [@PodCodar](https://podcodar.org) <br>
-> 🐈‍⬛ Cat daddy & DJ - [@home](127.0.0.1)
+> 🐈‍⬛ Cat daddy & DJ - [@home](https://github.com/marco-souza)
 
 ## About me
 
-👋 Hi, I'm Marco! 
+👋 Hi, I'm Marco, a software developer passionate about building tools that make a difference.
 
-I'm currently a Senior SDE and Solutions Architect at [MongoDB](https://mongodb.com), with a special love for building tools, automating everything, and spreading the DevOps Culture. 
+Since **2009**, I've been looking for new challenges and ways to improve my skills and the world around me. I've developed a broad skill set that includes TypeScript, Python, Golang, Lua, Java, Kotlin, and Elixir. Whether working on a new project or mentoring others, I'm driven by a desire to make a positive impact.
 
-I have been in touch with programming **since 2009** and consider myself a **proficient developer** capable of building and maintaining **production-grade** web applications. I am highly skilled in the **TypeScript** stack, but I also have experience building applications in many other environments, such as Python, Golang, Lua, Java, and Kotlin.
+I'm also the founder and leader of PodCodar - a nonprofit learning community that believes tech education should be inclusive and accessible to all, and we're committed to making that a reality in Brazil and beyond.
 
-Besides working and contributing to open-source projects, I’m also a mentor, code craftsman, and career advisor for new developers at [PodCodar](https://podcodar.com), which is a Non-Profit Community that helps people build their careers in a Digital world.
 
 ## Most Relevant Experiences
 
