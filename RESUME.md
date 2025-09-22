@@ -12,8 +12,9 @@ Since **2009**, I've been looking for new challenges and ways to improve my skil
 
 I'm also the founder and leader of PodCodar - a nonprofit learning community that believes tech education should be inclusive and accessible to all, and we're committed to making that a reality in Brazil and beyond.
 
+## Let's grab a coffee
 
-<p class="flex gap-2">
+<p class="flex gap-2 my-2">
   <a href="https://www.codementor.io/@masjr?refer=badge">
     <img src="https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg" title="Contact me on Codementor" />
   </a>
@@ -77,47 +78,35 @@ Check the complete working history at my [LinkedIn](https://linkedin.com/in/maso
   - Undergraduate Research in Machine Learning Algorithms.
 - 2011 Tech. Sc. in Information Technology, [CEFET-MG](https://www.cefetmg.br/)
 
-## Technical Skills
-
-### Languages I have experience with
-
+## Languages I have experience with
 
 +10 years:
 
 [![10-plus-years](https://skillicons.dev/icons?i=ts,js,py)]()
 
-
-
 +5 years:
 
 [![5-plus-years](https://skillicons.dev/icons?i=go,lua,java)]()
 
+1-5 years:
 
+[![2-5-years](https://skillicons.dev/icons?i=kotlin,c,elixir,rust)]()
 
-3-5 years:
+## Tools I enjoy working with
 
-[![2-5-years](https://skillicons.dev/icons?i=c,java,kotlin)]()
+Backend & Infra:
 
-1-3 years:
+[![Back-end](https://skillicons.dev/icons?i=deno,nodejs,nest,aws,terraform,ansible,docker,kubernetes)]()
 
-[![2-5-years](https://skillicons.dev/icons?i=elixir,rust)]()
+Data Management:
 
-
-### Tools I like to work with...
+[![Storage](https://skillicons.dev/icons?i=mongo,postgres,sqlite,dynamodb,kafka,redis,elasticsearch)]()
 
 Dev tools:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,neovim,bash)]()
+[![Dev Tools](https://skillicons.dev/icons?i=linux,git,github,neovim,bash)]()
 
 Frontend:
 
 [![Front-end](https://skillicons.dev/icons?i=react,next,tailwind,jest,selenium)]()
-
-Backend:
-
-[![Back-end](https://skillicons.dev/icons?i=deno,nodejs,nest,aws,terraform,ansible,docker,kubernetes)]()
-
-Data:
-
-[![Storage](https://skillicons.dev/icons?i=mongo,postgres,sqlite,dynamodb,kafka,redis,elasticsearch)]()
 
