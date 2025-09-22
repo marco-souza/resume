@@ -63,7 +63,7 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 - 1y - Senior Software Engineer at **[@Able](https://able.co)**
 - 2y - Team Lead & Software Engineer at **[@SmarttBot](https://smarttbot.com)**
 
-Check the complete working history at my [LinkedIn](https://linkedin.com/in/masouzajunior)
+Check the complete working history on my [LinkedIn](https://linkedin.com/in/masouzajunior)
 
 ## My Projects
 
