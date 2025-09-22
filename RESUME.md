@@ -1,7 +1,7 @@
 # Marco Souza
 
 > 👨‍💻 Software Engineer & Solutions Architect - [@MongoDB](https://mongodb.com) <br>
-> 🎨 Code Craftsman & Mentor - [@PodCodar](https://podcodar.org) <br>
+> 🎨 Community Lead & Mentor - [@PodCodar](https://podcodar.org) <br>
 > 🐈‍⬛ Cat daddy & DJ - [@home](https://github.com/marco-souza)
 
 ## About me
@@ -13,9 +13,27 @@ Since **2009**, I've been looking for new challenges and ways to improve my skil
 I'm also the founder and leader of PodCodar - a nonprofit learning community that believes tech education should be inclusive and accessible to all, and we're committed to making that a reality in Brazil and beyond.
 
 
-## Most Relevant Experiences
+<p class="flex gap-2">
+  <a href="https://www.codementor.io/@masjr?refer=badge">
+    <img src="https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg" title="Contact me on Codementor" />
+  </a>
 
-### Sr Software Development Engineer - [@MongoDB](https://mongodb.com)
+  <a href="https://linkedin.com/in/masouzajunior">
+    <img src="https://skillicons.dev/icons?i=linkedin" title="Linkedin" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/7988674/marco-ant%c3%b4nio">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" title="StackOverlfow" />
+  </a>
+  
+  <a href="https://github.com/marco-souza">
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  </a>
+</p>
+
+## Most Relevant experiences
+
+### Sr Software Engineer - Solutions Architect - [@MongoDB](https://mongodb.com)
 
 > +1y - Apr/2024 – present – NY, Remote from Brazil
 
@@ -41,20 +59,16 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 
 ### Other Cool Experiences
 
-- 1y - Senior Software Engineer - [@Able](https://able.co)
-- 2y - Team Lead & Software Engineer - [@SmarttBot](https://smarttbot.com)
+- 1y - Senior Software Engineer at **[@Able](https://able.co)**
+- 2y - Team Lead & Software Engineer at **[@SmarttBot](https://smarttbot.com)**
 
-Check the complete work history at my [LinkedIn](https://linkedin.com/in/masouzajunior)
+Check the complete working history at my [LinkedIn](https://linkedin.com/in/masouzajunior)
 
 ## My Projects
 
-### [PodCodar](https://podcodar.com)
+- **[PodCodar](https://podcodar.com)** - A FREE, non-profit community that guides and supports people in their journey to becoming qualified digital professionals.
 
-PodCodar is a FREE, non-profit community that guides and supports people in their journey to becoming a qualified digital professional. Whether you aspire to be a Software Engineer, Data Engineer, UX/UI Designer, or Product Owner, we've got you covered.
-
-### [TremTec](https://tremtec.com)
-
-TremTec helps startups and small companies grow by identifying their customer's needs, technology, and organizational challenges. We then plan a roadmap and implementation strategy to resolve these issues according to our customer's priorities. Our team works closely with our partners to deliver high-quality products with amazing experiences!
+- **[TremTec](https://tremtec.com)** - Provides consultation services and implements tools to help organizations integrate worldwide systems and remain compliant with Brazilian legislation.
 
 ## Education & Certifications
 
@@ -63,41 +77,47 @@ TremTec helps startups and small companies grow by identifying their customer's 
   - Undergraduate Research in Machine Learning Algorithms.
 - 2011 Tech. Sc. in Information Technology, [CEFET-MG](https://www.cefetmg.br/)
 
-## Most used Languages
+## Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,ts,js,py,lua)]()
+### Languages I have experience with
 
-### I have experience with...
 
-[![My Skills](https://skillicons.dev/icons?i=rust,c,java,kotlin)]()
++10 years:
+
+[![10-plus-years](https://skillicons.dev/icons?i=ts,js,py)]()
+
+
+
++5 years:
+
+[![5-plus-years](https://skillicons.dev/icons?i=go,lua,java)]()
+
+
+
+3-5 years:
+
+[![2-5-years](https://skillicons.dev/icons?i=c,java,kotlin)]()
+
+1-3 years:
+
+[![2-5-years](https://skillicons.dev/icons?i=elixir,rust)]()
+
 
 ### Tools I like to work with...
 
+Dev tools:
+
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,neovim,bash)]()
+
+Frontend:
 
 [![Front-end](https://skillicons.dev/icons?i=react,next,tailwind,jest,selenium)]()
 
+Backend:
+
 [![Back-end](https://skillicons.dev/icons?i=deno,nodejs,nest,aws,terraform,ansible,docker,kubernetes)]()
 
-[![Storage](https://skillicons.dev/icons?i=postgres,dynamodb,kafka,redis,mongo,elasticsearch)]()
+Data:
 
-## Let's grab a ☕️:
-
-<p class="flex gap-2">
-  <a href="https://www.codementor.io/@masjr?refer=badge">
-    <img src="https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg" title="Contact me on Codementor" />
-  </a>
-
-  <a href="https://linkedin.com/in/masouzajunior">
-    <img src="https://skillicons.dev/icons?i=linkedin" title="Linkedin" />
-  </a>
-
-  <a href="https://stackoverflow.com/users/7988674/marco-ant%c3%b4nio">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" title="StackOverlfow" />
-  </a>
-  
-  <a href="https://github.com/marco-souza">
-    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  </a>
-</p>
+[![Storage](https://skillicons.dev/icons?i=mongo,postgres,sqlite,dynamodb,kafka,redis,elasticsearch)]()
 
