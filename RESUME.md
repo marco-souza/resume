@@ -6,11 +6,13 @@
 
 ## About me
 
-👋 Hi, I'm Marco, a software developer passionate about building tools that make a difference.
+👋 Hi, 
+
+I'm Marco, a software developer passionate about building tools that make a difference.
 
 Since **2009**, I've been looking for new challenges and ways to improve my skills and the world around me. I've developed a broad skill set that includes TypeScript, Python, Golang, Lua, Java, Kotlin, and Elixir. Whether working on a new project or mentoring others, I'm driven by a desire to make a positive impact.
 
-I'm also the founder and leader of PodCodar - a nonprofit learning community that believes tech education should be inclusive and accessible to all, and we're committed to making that a reality in Brazil and beyond.
+I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofit learning community that believes tech education should be inclusive and accessible to all, and we're committed to making that a reality in Brazil and beyond.
 
 ## Let's grab a coffee
 
