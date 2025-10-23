@@ -71,8 +71,6 @@ Check the complete working history on my [LinkedIn](https://linkedin.com/in/maso
 
 - **[PodCodar](https://podcodar.com)** - A FREE, non-profit community that guides and supports people in their journey to becoming qualified digital professionals.
 
-- **[TremTec](https://tremtec.com)** - Provides consultation services and implements tools to help organizations integrate worldwide systems and remain compliant with Brazilian legislation.
-
 ## Education & Certifications
 
 - 2020 AWS Certified, [Cloud Practitioner](https://www.credly.com/badges/3e20fa2f-07c9-40aa-b486-9fbdaaef40fb?source=linked_in_profile)
