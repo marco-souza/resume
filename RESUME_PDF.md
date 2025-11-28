@@ -8,11 +8,11 @@
 
 ## Contact
 
-- Email: ma.souza.junior@gmail.com
-- Codementor: codementor.io/@masjr
-- LinkedIn: linkedin.com/in/masouzajunior
-- StackOverflow: stackoverflow.com/users/7988674/marco-antônio
-- GitHub: github.com/marco-souza
+- **Email:** ma.souza.junior@gmail.com
+- **Codementor:** codementor.io/@masjr
+- **LinkedIn:** linkedin.com/in/masouzajunior
+- **StackOverflow:** stackoverflow.com/users/7988674/marco-antônio
+- **GitHub:** github.com/marco-souza
 
 ---
 
