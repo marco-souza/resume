@@ -16,15 +16,23 @@ I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofi
 
 ## Let's grab a coffee
 
-<p class="flex gap-2 my-2">
-  <a href="mailto:marco.souza@hey.com" title="Email">
-    📧 marco.souza@hey.com
-  </a> |
+  <a href="https://www.codementor.io/@masjr?refer=badge">
+    <img src="https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg" title="Contact me on Codementor" />
+  </a>
   <a href="https://linkedin.com/in/masouzajunior">
     <img src="https://skillicons.dev/icons?i=linkedin" title="Linkedin" />
-  </a> |
+  </a>
+  <a href="https://stackoverflow.com/users/7988674/marco-antônio">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" title="StackOverflow" />
+  </a>
   <a href="https://github.com/marco-souza">
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  </a>
+</p>
+
+<p>
+  <a href="mailto:ma.souza.junior@gmail.com" >
+    <img src="https://skillicons.dev/icons?i=gmail" title="Email me" />
   </a>
 </p>
 
@@ -117,3 +125,4 @@ Dev tools:
 Frontend:
 
 [![Front-end](https://skillicons.dev/icons?i=react,next,tailwind,jest,selenium)]()
+
