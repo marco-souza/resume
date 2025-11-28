@@ -34,6 +34,8 @@ Email: ma.souza.junior@gmail.com | LinkedIn: linkedin.com/in/masouzajunior | Git
 - Built real-time monitoring and alerts for invoice generation, significantly reducing errors and delays in regulatory compliance
 - Developed 2 micro frontend applications integrated into Amazon Brasil's main site (millions of daily visits), enabling independent feature deployment and reducing time-to-market from weeks to days
 
+**Additional experience:** Senior Software Engineer at Able (2020), Team Lead at SmarttBot (2018-2020), and earlier roles. See full history on LinkedIn: linkedin.com/in/masouzajunior
+
 ---
 
 ## Education
