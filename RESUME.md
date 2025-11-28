@@ -16,6 +16,7 @@ I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofi
 
 ## Let's grab a coffee
 
+<p>
   <a href="https://www.codementor.io/@masjr?refer=badge">
     <img src="https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg" title="Contact me on Codementor" />
   </a>
@@ -122,4 +123,3 @@ Dev tools:
 Frontend:
 
 [![Front-end](https://skillicons.dev/icons?i=react,next,tailwind,jest,selenium)]()
-
