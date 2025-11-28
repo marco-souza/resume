@@ -9,6 +9,7 @@ Email: ma.souza.junior@gmail.com | LinkedIn: linkedin.com/in/masouzajunior | Git
 ## Most Relevant Work Experiences
 
 ### Sr Software Engineer - Solutions Architect, MongoDB
+
 **Apr/2024 – Present | New York, NY (Remote from Brazil)**
 
 - Reduced CI/CD pipeline execution time from 15 to 3 minutes, increasing deployment frequency and reducing time-to-value for millions of monthly users
@@ -17,6 +18,7 @@ Email: ma.souza.junior@gmail.com | LinkedIn: linkedin.com/in/masouzajunior | Git
 - Integrated E2E tests with Visual Regression Testing, improving feature reliability and catching regressions before production
 
 ### Technical Lead - Software Engineer, Paradigm
+
 **Jul/2021 – Nov/2023 | New York, NY (Remote from Brazil)**
 
 - Managed and mentored 6 direct reports in Applications team, collaborating with Platform and Backend teams to deliver investor-facing platform
@@ -28,6 +30,7 @@ Email: ma.souza.junior@gmail.com | LinkedIn: linkedin.com/in/masouzajunior | Git
 - Implemented order cancellation API processing 1k+ requests/min with <100ms latency, critical for fast market reactions
 
 ### Software Development Engineer II, Amazon
+
 **Jan/2022 – Jun/2023 | São Paulo, SP, Brazil**
 
 - Implemented automated FBA invoice emission system ensuring compliance with Brazilian fiscal regulations, eliminating manual processes and reducing audit risk
@@ -41,6 +44,7 @@ Email: ma.souza.junior@gmail.com | LinkedIn: linkedin.com/in/masouzajunior | Git
 ## Education
 
 **B.Sc. in Computational Mathematics** | Federal University of Minas Gerais (UFMG) | 2016
+
 - Undergraduate Research in Machine Learning Algorithms
 
 **AWS Certified Cloud Practitioner** | 2020
@@ -50,6 +54,7 @@ Email: ma.souza.junior@gmail.com | LinkedIn: linkedin.com/in/masouzajunior | Git
 ## Leadership & Impact
 
 **Founder & Leader, PodCodar** | Nonprofit learning community
+
 - Built and lead inclusive tech education community in Brazil, providing free education and mentorship to underrepresented individuals in tech
 - Scaled community to thousands of learners, demonstrating commitment to diversity and social impact
 

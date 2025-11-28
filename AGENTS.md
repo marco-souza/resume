@@ -24,6 +24,7 @@ Guidelines for working on this project.
 ### Formatting Rules
 
 #### RESUME.md (Web Version)
+
 - Use emojis in header (permitted)
 - Use HTML for contact section with images/badges
 - Use skillicons.dev for technology icons
@@ -31,6 +32,7 @@ Guidelines for working on this project.
 - Markdown links: `[text](url)`
 
 #### RESUME_PDF.md (PDF Version)
+
 - NO emojis
 - NO external images
 - Plain markdown only
@@ -49,7 +51,7 @@ Guidelines for working on this project.
 
 ## Git Workflow
 
-- Commit messages: use `feat:`, `fix:`, `style:` prefixes
+- Commit messages: use `fea:`, `fix:`, `style:` prefixes
 - Always commit both markdown files when updating content
 - Push after each commit
 - Example: `feat: add achievement metrics to Amazon experience`
@@ -64,6 +66,7 @@ Guidelines for working on this project.
 ## Metrics Format
 
 When documenting improvements:
+
 - Time: `X → Y minutes/hours`
 - Memory/Size: `XMB → YMB`
 - Performance: `X% improvement` or `X→Y metric`
