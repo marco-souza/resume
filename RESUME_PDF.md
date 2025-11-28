@@ -119,3 +119,4 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 ## Summary
 
 16 years of software engineering experience spanning full-stack development, team leadership, and infrastructure optimization. Proven track record of delivering high-impact solutions at scale (millions of users), optimizing systems (3x CI/CD improvement, 5x memory reduction), and leading high-performing teams. Strong expertise in modern web technologies, cloud platforms, and DevOps practices. Community advocate through PodCodar, fostering inclusive tech education.
+

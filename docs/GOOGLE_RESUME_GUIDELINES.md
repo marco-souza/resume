@@ -9,6 +9,7 @@ Reference: https://www.google.com/about/careers/applications/how-we-hire
 ## Core Principles
 
 ### 1. Keep It Short
+
 - **Target: 1 page maximum** (exceptions: engineering roles with many projects = 2 pages acceptable)
 - Concision and precision are key
 - Google explicitly states: "Think twice before letting your resume move onto multiple pages"
