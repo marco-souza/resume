@@ -6,7 +6,7 @@ Email: ma.souza.junior@gmail.com | LinkedIn: linkedin.com/in/masouzajunior | Git
 
 ---
 
-## Work Experience
+## Most Relevant Work Experiences
 
 ### Sr Software Engineer - Solutions Architect, MongoDB
 **Apr/2024 – Present | New York, NY (Remote from Brazil)**
