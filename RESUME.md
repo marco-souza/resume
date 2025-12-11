@@ -16,7 +16,7 @@ I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofi
 
 ## Let's grab a coffee
 
-<p>
+<p class="flex flex-col gap-4">
   <a href="https://www.codementor.io/@masjr?refer=badge">
     <img src="https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg" title="Contact me on Codementor" />
   </a>
