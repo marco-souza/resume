@@ -72,7 +72,6 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 - Led team of 4 engineers on platform development and delivery
 - **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
 - **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
-- Spearheaded Mobile App R&D and initial implementation, expanding platform reach to on-the-go users
 
 ### Tech Lead - Software Engineer at Inkitt
 

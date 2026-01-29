@@ -159,7 +159,7 @@ Jun/2018 – Sep/2019 | Belo Horizonte, MG, Brazil
    - Better mobile experience
    - Offline capabilities
 
-3. **Mobile App R&D** - Initial implementation and platform expansion
+
 
 ### Impact
 - Improved user experience across all platforms
