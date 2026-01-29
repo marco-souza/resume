@@ -8,11 +8,11 @@
 
 ## Contact
 
-- **Email:** ma.souza.junior@gmail.com
-- **Codementor:** codementor.io/@masjr
-- **LinkedIn:** linkedin.com/in/masouzajunior
-- **StackOverflow:** stackoverflow.com/users/7988674/marco-antônio
-- **GitHub:** github.com/marco-souza
+- **Email:** <ma.souza.junior@gmail.com>
+- **Codementor:** <https://codementor.io/@masjr>
+- **LinkedIn:** <https://linkedin.com/in/masouzajunior>
+- **StackOverflow:** <https://stackoverflow.com/users/7988674/marco-antônio>
+- **GitHub:** <https://github.com/marco-souza>
 
 ---
 
@@ -77,9 +77,9 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 
 ---
 
-## Key Projects
+## Community Leadership
 
-**PodCodar** - Founder and leader of a FREE, non-profit learning community that guides and supports people in their journey to becoming qualified digital professionals.
+**PodCodar** - Founder and Leader of a non-profit learning community dedicated to making tech education inclusive and accessible. Building pathways for aspiring developers in Brazil and beyond (<https://podcodar.org>).
 
 ---
 
@@ -100,19 +100,23 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 
 **Languages (1-5 years):** Kotlin, C, Elixir, Rust
 
-**Backend & Infrastructure:** Node.js, Deno, NestJS, Express, AWS, Terraform, Ansible, Docker, Kubernetes, NGINX
+**Backend:** Node.js, Bun, Hono, NestJS, Express, Phoenix Framework
 
-**Databases & Messaging:** MongoDB, PostgreSQL, SQLite, DynamoDB, Redis, Elasticsearch, Kafka
+**Infrastructure:** Docker, Kubernetes, AWS, Cloudflare, Terraform, Pulumi, Ansible
 
-**Frontend:** React, Next.js, Tailwind CSS, Webpack, Redux, Electron, Service Workers
+**Databases & Messaging:** MongoDB, PostgreSQL, SQLite, DynamoDB, SQS, SNS, Redis, Elasticsearch, Kafka
 
-**Mobile:** React Native, Progressive Web Apps, Android, Firebase, Expo, Fastlane
+**Frontend:** React, Next.js, Tailwind CSS, Vite, Webpack, Electron, Progressive Web Apps, Service Workers
 
-**API & Communication:** GraphQL, gRPC, WebSockets, REST, Swagger
+**Mobile:** React Native, Android, Expo, Fastlane, Flutter, Swift (basic)
 
-**Testing:** Jest, Mocha, Pytest, unittest, Testing Library, MSW, Playwright, JUnit
+**API Communication:** OpenAPI, GraphQL, gRPC, WebSockets, Server-Send Events, REST, Swagger/Scalar
 
-**DevOps & Tools:** Git, GitHub, GitHub Actions, GitLab CI, CircleCI, Sentry, Datadog, Linux, Bash, Neovim
+**Testing:** Vitest, Jest, Mocha, Pytest, unittest, Testing Library, MSW, Playwright, JUnit
+
+**DevOps:** Git, GitHub, GitHub Actions, Drone CI, GitLab CI, CircleCI, Sentry, Datadog
+
+**Terminal:** tmux, ssh, gpg, zsh, opencode, amp, neovim (btw)
 
 ---
 

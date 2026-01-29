@@ -4,8 +4,6 @@
 > 🎨 Community Lead & Mentor - [@PodCodar](https://podcodar.org) <br>
 > 🐈‍⬛ Cat daddy & DJ - [@home](https://github.com/marco-souza)
 
-
-
 ## About me
 
 👋 Hi,
@@ -16,12 +14,9 @@ Since **2009**, I've been looking for new challenges and ways to improve my skil
 
 I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofit learning community that believes tech education should be inclusive and accessible to all, and we're committed to making that a reality in Brazil and beyond.
 
-
-
 ## Let's grab a coffee
 
-[GitHub](https://github.com/marco-souza)  |  [Linkedin](https://linkedin.com/in/masouzajunior)  |  [StackOverlfow](https://stackoverflow.com/users/7988674/marco-antônio)
-
+[GitHub](https://github.com/marco-souza) | [Linkedin](https://linkedin.com/in/masouzajunior) | [StackOverlfow](https://stackoverflow.com/users/7988674/marco-antônio)
 
 ## Most Relevant experiences
 
@@ -55,25 +50,25 @@ I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofi
 ## Other Notable Experiences
 
 - **11m (Jun/2023 – Apr/2024)** - Sr Software Engineer at [@Able](https://able.co)
-   - Built internal CRM for client and project management, improving operational efficiency and team communication
-   - **Integrated Twilio VoIP service**, automating 82% of 10k support calls/month (only 1,800 required human assistance)
-   - Developed healthcare facility mapping platform (clinics, nursing homes, healthcare services) for easy health service discovery
+  - Built internal CRM for client and project management, improving operational efficiency and team communication
+  - **Integrated Twilio VoIP service**, automating 82% of 10k support calls/month (only 1,800 required human assistance)
+  - Developed healthcare facility mapping platform (clinics, nursing homes, healthcare services) for easy health service discovery
 
 - **1.3y (Jun/2018 – Sep/2019)** - Tech Lead & Software Engineer at [@SmarttBot](https://smarttbot.com)
-   - Led team of 4 engineers on platform development and delivery
-   - **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
-   - **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
+  - Led team of 4 engineers on platform development and delivery
+  - **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
+  - **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
 
 - **4y (Nov/2015 – Sep/2019)** - Software Engineer at [@SmarttBot](https://smarttbot.com)
-   - Developed web and mobile applications for algorithmic stock trading platform
-   - Served as Scrum Master for Web Development Team
-   - Led team of 4 engineers on platform development and delivery
+  - Developed web and mobile applications for algorithmic stock trading platform
+  - Served as Scrum Master for Web Development Team
+  - Led team of 4 engineers on platform development and delivery
 
 Check the complete working history on my [LinkedIn](https://linkedin.com/in/masouzajunior)
 
-## My Projects
+## Community Leadership
 
-- **[PodCodar](https://podcodar.com)** - A FREE, non-profit community that guides and supports people in their journey to becoming qualified digital professionals.
+- **[PodCodar](https://podcodar.org)** - Founder and Leader of a non-profit learning community dedicated to making tech education inclusive and accessible. Building pathways for aspiring developers in Brazil and beyond.
 
 ## Education & Certifications
 
@@ -82,34 +77,28 @@ Check the complete working history on my [LinkedIn](https://linkedin.com/in/maso
   - Undergraduate Research in Machine Learning Algorithms.
 - 2011 Tech. Sc. in Information Technology, [CEFET-MG](https://www.cefetmg.br/)
 
-## Languages I have experience with
+## Technical Skills
 
-+10 years:
+**Languages (10+ years):** TypeScript, JavaScript, Python
 
-[![10-plus-years](https://skillicons.dev/icons?i=ts,js,py)]()
+**Languages (5+ years):** Go, Lua, Java
 
-+5 years:
+**Languages (1-5 years):** Kotlin, C, Elixir, Rust
 
-[![5-plus-years](https://skillicons.dev/icons?i=go,lua,java)]()
+**Backend:** Node.js, Bun, Hono, NestJS, Express, Deno
 
-1-5 years:
+**Infrastructure:** Docker, Kubernetes, AWS, Cloudflare, Terraform, Pulumi, Ansible
 
-[![2-5-years](https://skillicons.dev/icons?i=kotlin,c,elixir,rust)]()
+**Databases & Messaging:** MongoDB, PostgreSQL, SQLite, DynamoDB, SQS, SNS, Redis, Elasticsearch, Kafka
 
-## Tools I enjoy working with
+**Frontend:** React, Next.js, Tailwind CSS, Vite, Webpack, Electron, Progressive Web Apps, Service Workers
 
-Backend & Infra:
+**Mobile:** React Native, Android, Expo, Fastlane, Flutter, Swift (basic)
 
-[![Back-end](https://skillicons.dev/icons?i=deno,nodejs,nest,aws,terraform,ansible,docker,kubernetes)]()
+**API Communication:** OpenAPI, GraphQL, gRPC, WebSockets, Server-Send Events, REST
 
-Data Management:
+**Testing:** Vitest, Jest, Mocha, Pytest, Testing Library, Playwright, MSW, Selenium
 
-[![Storage](https://skillicons.dev/icons?i=mongo,postgres,sqlite,dynamodb,kafka,redis,elasticsearch)]()
+**DevOps:** Git, GitHub, GitHub Actions, Drone CI, GitLab CI, CircleCI, Sentry, Datadog
 
-Dev tools:
-
-[![Dev Tools](https://skillicons.dev/icons?i=linux,git,github,neovim,bash)]()
-
-Frontend:
-
-[![Front-end](https://skillicons.dev/icons?i=react,next,tailwind,jest,selenium)]()
+**Terminal:** tmux, ssh, gpg, zsh, neovim
