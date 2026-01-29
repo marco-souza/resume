@@ -29,19 +29,20 @@ I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofi
 
 > +1y - Apr/2024 – present – NY, Remote from Brazil
 
-- Maintain 6 web apps under `mongodb.com` domain, consistently delivering updates to millions of monthly users
-- Speeded up 5x the CI/CD pipeline execution time (from 15 to 3 minutes), increasing deployment frequency and enhancing code quality
-- Reduced rollback from minutes to seconds, by architecturing and implementing a Feature Flags system that serves 10M users per month
+- Maintain 6 web apps under `mongodb.com` domain, consistently delivering updates to 11M+ monthly users
+- **Reduced CI/CD pipeline execution time from 15 to 3 minutes** (5x improvement), increasing deployment frequency and enhancing code quality
+- **Implemented Feature Flags system** serving 11M+ users/month, enabling safer deployments and reducing rollback time from minutes to seconds
 - Integrated E2E tests with Visual Regression Testing, improving feature reliability and quality assurance
 
 ### Technical Lead - Software Engineer - [@Paradigm](https://paradigm.co)
 
 > 2.4y – Jul/2021 – Nov/2023 – New York - NY, Remote from Brazil
 
-- I led a team of 6 full-stack engineers, responsible for maintaining web, mobile, and desktop apps
-- Reduced 80% memory usage of Paradigm's Desktop App (from 80MB to 15MB per session) by architecturing and reimplementing client stores using DDD.
-- Reduced 50% of the estimated time-to-market for our Mobile App release, by architecture and extracting a shared Redux data layer
-- *Automated Mobile App build & deploy pipeline, reducing deployment time from 4 hours (manual, error-prone) to 26 minutes
+- **Led team of 6 engineers** (web, mobile, desktop), collaborating with backend and infra teams on cross-team architecture, planning, and implementation
+- **Reduced Desktop App memory usage from 80MB to 15MB per user session** (80% improvement) by architecting and reimplementing client stores using DDD principles
+- **Reduced Mobile App time-to-market by 50%** by architecting and extracting shared Redux data layer into monorepo
+- **Automated Mobile App build & deploy pipeline**, reducing deployment time from 4 hours (manual, error-prone) to 26 minutes
+- **Built real-time APIs** for market data, bid/ask ordering, and order cancellation, supporting 10k+ simultaneous WebSocket connections with <150ms latency
 
 ### Software Development Engineer II - [@Amazon](https://amazon.com)
 
@@ -54,14 +55,14 @@ I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofi
 ### Other Cool Experiences
 
 - 1y (Jan/2020 – Dec/2020) - Sr Software Engineer at [@Able](https://able.co)
-  - Built internal CRM for client and project management, improving operational efficiency and team communication
-  - Integrated Twilio VoIP service, enabling automated customer support and reduced response time
-  - Developed healthcare facility mapping platform (clinics, nursing homes, healthcare services) for easy health service discovery
+   - Built internal CRM for client and project management, improving operational efficiency and team communication
+   - **Integrated Twilio VoIP service**, automating 82% of 10k support calls/month (only 1,800 required human assistance)
+   - Developed healthcare facility mapping platform (clinics, nursing homes, healthcare services) for easy health service discovery
 
 - 2y (Nov/2018 – Oct/2020) - Team Lead & Software Engineer at [@SmarttBot](https://smarttbot.com)
-  - Led team of 4 engineers on platform development and delivery
-  - Migrated app from Angular to React.js, improving flexibility and UI performance
-  - Implemented Progressive Web App (PWA), enhancing mobile experience and increasing user retention
+   - Led team of 4 engineers on platform development and delivery
+   - **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
+   - **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
 
 Check the complete working history on my [LinkedIn](https://linkedin.com/in/masouzajunior)
 

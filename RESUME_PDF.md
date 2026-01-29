@@ -32,23 +32,20 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 
 **Apr/2024 – present | New York, NY (Remote from Brazil)**
 
-- Maintain 5 web apps under mongodb.com domain (main site, careers, blogs, legacy services), delivering updates to millions of monthly users
-- **Reduced CI/CD pipeline execution time from 15 to 3 minutes**, increasing deployment frequency and code quality
-- **Migrated Next.js Pages Router → App Router**, improving page speed and enabling personalized user experiences
-- Implemented Feature Flags to enable safer deployments and reduce long-running branches
+- Maintain 6 web apps under mongodb.com domain, delivering updates to 11M+ monthly users
+- **Reduced CI/CD pipeline execution time from 15 to 3 minutes** (5x improvement), increasing deployment frequency and code quality
+- **Implemented Feature Flags system** serving 11M+ users/month, enabling safer deployments and reducing rollback time from minutes to seconds
 - Integrated E2E tests with Visual Regression Testing, improving feature reliability and quality assurance
 
 ### Technical Lead - Software Engineer at Paradigm
 
 **Jul/2021 – Nov/2023 | New York, NY (Remote from Brazil)**
 
-- **Managed and mentored 6 direct reports** in the Applications team; collaborated with 2 engineers from Platform and Backend teams
-- **Reduced desktop app memory usage from 80MB to 15MB per session**, enabling traders to maintain multiple sessions simultaneously
-- **Cut Mobile App time-to-market from 3 months to 1.5 months** by implementing monorepo architecture and extracting shared Redux layer
+- **Led team of 6 engineers** (web, mobile, desktop), collaborating with backend and infra teams on cross-team architecture, planning, and implementation
+- **Reduced desktop app memory usage from 80MB to 15MB per user session** (80% improvement) by architecting and reimplementing client stores using DDD principles
+- **Reduced Mobile App time-to-market by 50%** by architecting and extracting shared Redux data layer into monorepo
 - **Automated Mobile App build & deploy pipeline**, reducing deployment time from 4 hours (manual, error-prone) to 26 minutes
-- **Built real-time WebSocket API** supporting 10k+ simultaneous connections with <150ms latency for market data
-- **Created bid/ask API** handling 5k+ requests/min with <150ms latency for efficient order execution
-- **Implemented order cancellation API** processing 1k+ requests/min with <100ms latency for volatile markets
+- **Built real-time APIs** for market data, bid/ask ordering, and order cancellation, supporting 10k+ simultaneous WebSocket connections with <150ms latency
 
 ### Software Development Engineer II at Amazon
 
@@ -63,7 +60,7 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 **Jan/2020 – Dec/2020**
 
 - Built internal CRM for client and project management, improving operational efficiency and team communication
-- Integrated Chamas VoIP enabling automated customer support and reduced response time
+- **Integrated Twilio VoIP service**, automating 82% of 10k support calls/month (only 1,800 required human assistance)
 - Developed healthcare facility mapping platform (clinics, nursing homes, healthcare services) for easy health service discovery
 
 ### Team Lead & Software Engineer at SmarttBot
@@ -71,9 +68,9 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 **Nov/2018 – Oct/2020**
 
 - Led team of 4 engineers on platform development and delivery
-- **Migrated app from Angular to React.js**, improving flexibility and UI performance
-- **Implemented Progressive Web App (PWA)**, enhancing mobile experience and increasing user retention
-- **Spearheaded Mobile App R&D and initial implementation**, expanding platform reach to on-the-go users
+- **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
+- **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
+- Spearheaded Mobile App R&D and initial implementation, expanding platform reach to on-the-go users
 
 ---
 
@@ -119,4 +116,3 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 ## Summary
 
 16 years of software engineering experience spanning full-stack development, team leadership, and infrastructure optimization. Proven track record of delivering high-impact solutions at scale (millions of users), optimizing systems (3x CI/CD improvement, 5x memory reduction), and leading high-performing teams. Strong expertise in modern web technologies, cloud platforms, and DevOps practices. Community advocate through PodCodar, fostering inclusive tech education.
-
