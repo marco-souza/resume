@@ -85,19 +85,19 @@ Check the complete working history on my [LinkedIn](https://linkedin.com/in/maso
 
 **Languages (1-5 years):** Kotlin, C, Elixir, Rust
 
+**Mobile:** React Native, Android, Expo, Fastlane, Flutter, Swift (basic)
+
+**Frontend:** React, Next.js, Tailwind CSS, Vite, Webpack, Electron, Progressive Web Apps, Service Workers
+
+**Testing:** Vitest, Jest, Mocha, Pytest, Testing Library, Playwright, MSW, Selenium
+
 **Backend:** Node.js, Bun, Hono, NestJS, Express, Deno
+
+**API Communication:** OpenAPI, GraphQL, gRPC, WebSockets, Server-Send Events, REST
 
 **Infrastructure:** Docker, Kubernetes, AWS, Cloudflare, Terraform, Pulumi, Ansible
 
 **Databases & Messaging:** MongoDB, PostgreSQL, SQLite, DynamoDB, SQS, SNS, Redis, Elasticsearch, Kafka
-
-**Frontend:** React, Next.js, Tailwind CSS, Vite, Webpack, Electron, Progressive Web Apps, Service Workers
-
-**Mobile:** React Native, Android, Expo, Fastlane, Flutter, Swift (basic)
-
-**API Communication:** OpenAPI, GraphQL, gRPC, WebSockets, Server-Send Events, REST
-
-**Testing:** Vitest, Jest, Mocha, Pytest, Testing Library, Playwright, MSW, Selenium
 
 **DevOps:** Git, GitHub, GitHub Actions, Drone CI, GitLab CI, CircleCI, Sentry, Datadog
 

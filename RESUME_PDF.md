@@ -2,7 +2,7 @@
 
 **Software Engineer & Solutions Architect** at MongoDB  
 **Community Lead & Mentor** at PodCodar  
-**Full Stack Developer** | 16 years of experience
+**Full-Stack Developer** | 16 years of experience
 
 ---
 
@@ -100,19 +100,19 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 
 **Languages (1-5 years):** Kotlin, C, Elixir, Rust
 
+**Mobile:** React Native, Android, Expo, Fastlane, Flutter, Swift (basic)
+
+**Frontend:** React, Next.js, Tailwind CSS, Vite, Webpack, Electron, Progressive Web Apps, Service Workers
+
+**Testing:** Vitest, Jest, Mocha, Pytest, unittest, Testing Library, MSW, Playwright, JUnit
+
 **Backend:** Node.js, Bun, Hono, NestJS, Express, Phoenix Framework
+
+**API Communication:** OpenAPI, GraphQL, gRPC, WebSockets, Server-Send Events, REST, Swagger/Scalar
 
 **Infrastructure:** Docker, Kubernetes, AWS, Cloudflare, Terraform, Pulumi, Ansible
 
 **Databases & Messaging:** MongoDB, PostgreSQL, SQLite, DynamoDB, SQS, SNS, Redis, Elasticsearch, Kafka
-
-**Frontend:** React, Next.js, Tailwind CSS, Vite, Webpack, Electron, Progressive Web Apps, Service Workers
-
-**Mobile:** React Native, Android, Expo, Fastlane, Flutter, Swift (basic)
-
-**API Communication:** OpenAPI, GraphQL, gRPC, WebSockets, Server-Send Events, REST, Swagger/Scalar
-
-**Testing:** Vitest, Jest, Mocha, Pytest, unittest, Testing Library, MSW, Playwright, JUnit
 
 **DevOps:** Git, GitHub, GitHub Actions, Drone CI, GitLab CI, CircleCI, Sentry, Datadog
 
