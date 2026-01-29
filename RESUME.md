@@ -51,16 +51,16 @@ I'm also the founder and leader of [PodCodar](https://podcodar.org) - a nonprofi
 ## Other Notable Experiences
 
 - **11m (Jun/2023 – Apr/2024)** - Sr Software Engineer at [@Able](https://able.co)
-   - Built internal CRM for client and project management, improving operational efficiency and team communication
-   - **Integrated Twilio VoIP service**, automating 82% of 10k support calls/month (only 1,800 required human assistance)
-   - Developed healthcare facility mapping platform (clinics, nursing homes, healthcare services) for easy health service discovery
+  - Built internal CRM for client and project management, improving operational efficiency and team communication
+  - **Integrated Twilio VoIP service**, automating 82% of 10k support calls/month (only 1,800 required human assistance)
+  - Developed healthcare facility mapping platform (clinics, nursing homes, healthcare services) for easy health service discovery
 
 - **4y (Nov/2015 – Sep/2019)** - Software Engineer & Tech Lead at [@SmarttBot](https://smarttbot.com)
-   - Developed web and mobile applications for algorithmic stock trading platform
-   - Served as Scrum Master for Web Development Team
-   - Led team of 4 engineers on platform development and delivery
-   - **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
-   - **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
+  - Developed web and mobile applications for algorithmic stock trading platform
+  - Served as Scrum Master for Web Development Team
+  - Led team of 4 engineers on platform development and delivery
+  - **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
+  - **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
 
 Check the complete working history on my [LinkedIn](https://linkedin.com/in/masouzajunior)
 
@@ -100,3 +100,5 @@ Check the complete working history on my [LinkedIn](https://linkedin.com/in/maso
 **DevOps:** Git, GitHub, GitHub Actions, Drone CI, GitLab CI, CircleCI, Sentry, Datadog
 
 **Terminal:** tmux, ssh, gpg, zsh, neovim
+
+**AI Tools:** cursor, antigravity, opencode, ampcode, docker mcp toolkit
