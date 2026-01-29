@@ -4,23 +4,23 @@
 > 🎨 Community Lead & Mentor - [@PodCodar](https://podcodar.org) <br>
 > 🐈‍⬛ Cat daddy & DJ - [@home](https://github.com/marco-souza)
 
+
+
 ## About me
 
 👋 Hi,
 
 I'm Marco, a software developer passionate about building tools that make a difference.
 
-Since **2009**, I've been looking for new challenges and ways to improve my skills and the world around me. I've developed a broad skill set that includes TypeScript, Python, Golang, Lua, Java, Kotlin, and Elixir. Whether working on a new project or mentoring others, I'm driven by a desire to make a positive impact.
+Since **2009**, I've been looking for new challenges and ways to improve my skills and the world around me! I've developed a broad skill set that includes TypeScript, Python, Golang, Lua, Java, Kotlin, and Elixir. Whether working on a new project or mentoring others, I'm driven by a desire to make a positive impact.
 
 I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofit learning community that believes tech education should be inclusive and accessible to all, and we're committed to making that a reality in Brazil and beyond.
 
+
+
 ## Let's grab a coffee
 
-
-[![Contact me on Codementor](https://www.codementor.io/m-badges/masjr/im-a-cm-b.svg)](https://www.codementor.io/@masjr?refer=badge)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/marco-souza)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/masouzajunior)
-[![StackOverlfow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/7988674/marco-antônio)
+[GitHub](https://github.com/marco-souza)  |  [Linkedin](https://linkedin.com/in/masouzajunior)  |  [StackOverlfow](https://stackoverflow.com/users/7988674/marco-antônio)
 
 
 ## Most Relevant experiences
@@ -29,44 +29,39 @@ I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofi
 
 > +1y - Apr/2024 – present – NY, Remote from Brazil
 
-- Maintain 5 web apps under `mongodb.com` domain (main site, careers, blogs, legacy services), delivering updates to millions of monthly users
-- **Reduced CI/CD pipeline execution time from 15 to 3 minutes**, increasing deployment frequency and code quality
-- **Migrated Next.js Pages Router → App Router**, improving page speed and enabling personalized user experiences
-- Implemented Feature Flags to enable safer deployments and reduce long-running branches
+- Maintain 6 web apps under `mongodb.com` domain, consistently delivering updates to millions of monthly users
+- Speeded up 5x the CI/CD pipeline execution time (from 15 to 3 minutes), increasing deployment frequency and enhancing code quality
+- Reduced rollback from minutes to seconds, by architecturing and implementing a Feature Flags system that serves 10M users per month
 - Integrated E2E tests with Visual Regression Testing, improving feature reliability and quality assurance
 
 ### Technical Lead - Software Engineer - [@Paradigm](https://paradigm.co)
 
 > 2.4y – Jul/2021 – Nov/2023 – New York - NY, Remote from Brazil
 
-- **Managed and mentored 6 direct reports** in the Applications team; collaborated with 2 engineers from Platform and Backend teams
-- **Reduced desktop app memory usage from 80MB to 15MB per session**, enabling traders to maintain multiple sessions simultaneously
-- **Cut Mobile App time-to-market from 3 months to 1.5 months** by implementing monorepo architecture and extracting shared Redux layer
-- **Automated Mobile App build & deploy pipeline**, reducing deployment time from 4 hours (manual, error-prone) to 26 minutes
-- **Built real-time WebSocket API** supporting 10k+ simultaneous connections with <150ms latency for market data
-- **Created bid/ask API** handling 5k+ requests/min with <150ms latency for efficient order execution
-- **Implemented order cancellation API** processing 1k+ requests/min with <100ms latency for volatile markets
+- I led a team of 6 full-stack engineers, responsible for maintaining web, mobile, and desktop apps
+- Reduced 80% memory usage of Paradigm's Desktop App (from 80MB to 15MB per session) by architecturing and reimplementing client stores using DDD.
+- Reduced 50% of the estimated time-to-market for our Mobile App release, by architecture and extracting a shared Redux data layer
+- *Automated Mobile App build & deploy pipeline, reducing deployment time from 4 hours (manual, error-prone) to 26 minutes
 
 ### Software Development Engineer II - [@Amazon](https://amazon.com)
 
 > 1.5y – Jan/2022 – Jun/2023 – São Paulo, SP – Brazil
 
-- **Implemented automated FBA invoice emission system** ensuring compliance with Brazilian fiscal regulations, eliminating manual processes and reducing risk of fines
-- **Built real-time monitoring and alerts** for invoice generation, significantly reducing errors and delays
-- **Developed 2 micro frontend apps** integrated into Amazon Brasil's main site (millions of daily visits), enabling independent feature delivery and reducing deployment time from weeks to days
+- Implemented the invoice issuance system (FBA program - Fulfillment by Amazon), ensuring compliance with Brazilian fiscal regulations, eliminating manual processes, and reducingthe risk for sellers
+- Built real-time monitoring and alerts for invoice generation, significantly reducing the time to fix issues and delays
+- Developed two micro frontend apps, integrated into Amazon Brasil's main site (millions of daily visits) and Amazon backoffice application for sellers, enabling them to automate their invoice issuance
 
 ### Other Cool Experiences
 
-- **1y (Jan/2020 – Dec/2020) - Sr Software Engineer at [@Able](https://able.co)**
+- 1y (Jan/2020 – Dec/2020) - Sr Software Engineer at [@Able](https://able.co)
   - Built internal CRM for client and project management, improving operational efficiency and team communication
-  - Integrated Chamas VoIP enabling automated customer support and reduced response time
+  - Integrated Twilio VoIP service, enabling automated customer support and reduced response time
   - Developed healthcare facility mapping platform (clinics, nursing homes, healthcare services) for easy health service discovery
 
-- **2y (Nov/2018 – Oct/2020) - Team Lead & Software Engineer at [@SmarttBot](https://smarttbot.com)**
+- 2y (Nov/2018 – Oct/2020) - Team Lead & Software Engineer at [@SmarttBot](https://smarttbot.com)
   - Led team of 4 engineers on platform development and delivery
-  - **Migrated app from Angular to React.js**, improving flexibility and UI performance
-  - **Implemented Progressive Web App (PWA)**, enhancing mobile experience and increasing user retention
-  - **Spearheaded Mobile App R&D and initial implementation**, expanding platform reach to on-the-go users
+  - Migrated app from Angular to React.js, improving flexibility and UI performance
+  - Implemented Progressive Web App (PWA), enhancing mobile experience and increasing user retention
 
 Check the complete working history on my [LinkedIn](https://linkedin.com/in/masouzajunior)
 
