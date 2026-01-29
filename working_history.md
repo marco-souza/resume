@@ -1,7 +1,7 @@
 # Working History - Detailed Context
 
 ## MongoDB
-**Sr Software Engineer - Solutions Architect**  
+**Sr Software Development Engineer**  
 Apr/2024 – present | New York, NY (Remote from Brazil)
 
 ### Context
@@ -24,8 +24,8 @@ Apr/2024 – present | New York, NY (Remote from Brazil)
 ---
 
 ## Paradigm
-**Technical Lead - Software Engineer**  
-Jul/2021 – Nov/2023 | New York, NY (Remote from Brazil)
+**Tech Lead - Software Engineer**  
+Jan/2021 – May/2023 | New York, NY (Remote from Brazil)
 
 ### Context
 - Led 6 engineers (web, mobile, desktop applications)
@@ -64,7 +64,7 @@ Jul/2021 – Nov/2023 | New York, NY (Remote from Brazil)
 
 ## Amazon
 **Software Development Engineer II**  
-Jan/2022 – Jun/2023 | São Paulo, SP, Brazil
+Oct/2019 – Mar/2021 | São Paulo, SP, Brazil
 
 ### Context
 - FBA (Fulfillment by Amazon) program - seller invoicing
@@ -100,7 +100,7 @@ Jan/2022 – Jun/2023 | São Paulo, SP, Brazil
 
 ## Able
 **Sr Software Engineer**  
-Jan/2020 – Dec/2020
+Jun/2023 – Apr/2024 | New York, NY (Remote from Brazil)
 
 ### Context
 - VoIP integration for customer support automation
@@ -132,9 +132,9 @@ Jan/2020 – Dec/2020
 
 ---
 
-## SmarttBot
-**Team Lead & Software Engineer**  
-Nov/2018 – Oct/2020
+## SmarttBot (Tech Lead)
+**Tech Lead & Software Engineer**  
+Jun/2018 – Sep/2019 | Belo Horizonte, MG, Brazil
 
 ### Context
 - Chatbot platform with web and mobile presence
@@ -172,6 +172,33 @@ Nov/2018 – Oct/2020
 - React Native (mobile R&D)
 - Service Workers
 - TypeScript, JavaScript
+
+---
+
+## Inkitt
+**Tech Lead - Software Engineer**  
+Nov/2017 – Jun/2018 | Berlin, Germany
+
+### Context
+- Book publishing platform connecting authors and readers
+- Predictive analytics for bestseller identification
+
+### Key Responsibility
+- Led tech strategy for platform development
+
+---
+
+## SmarttBot (Full Stack)
+**Full Stack Engineer**  
+Nov/2015 – Nov/2017 | Belo Horizonte, MG, Brazil
+
+### Context
+- Algorithmic stock trading platform
+- Web and mobile application development
+
+### Key Responsibility
+- Scrum Master for Web Development Team
+- Full-stack feature development
 
 ---
 

@@ -25,18 +25,18 @@ I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofi
 
 ## Most Relevant experiences
 
-### Sr Software Engineer - Solutions Architect - [@MongoDB](https://mongodb.com)
+### Sr Software Development Engineer - [@MongoDB](https://mongodb.com)
 
-> +1y - Apr/2024 – present – NY, Remote from Brazil
+> Apr/2024 – present | NY, Remote from Brazil
 
 - Maintain 6 web apps under `mongodb.com` domain, consistently delivering updates to 11M+ monthly users
 - **Reduced CI/CD pipeline execution time from 15 to 3 minutes** (5x improvement), increasing deployment frequency and enhancing code quality
 - **Implemented Feature Flags system** serving 11M+ users/month, enabling safer deployments and reducing rollback time from minutes to seconds
 - Integrated E2E tests with Visual Regression Testing, improving feature reliability and quality assurance
 
-### Technical Lead - Software Engineer - [@Paradigm](https://paradigm.co)
+### Tech Lead - Software Engineer - [@Paradigm](https://paradigm.co)
 
-> 2.4y – Jul/2021 – Nov/2023 – New York - NY, Remote from Brazil
+> Jan/2021 – May/2023 | New York, NY, Remote from Brazil
 
 - **Led team of 6 engineers** (web, mobile, desktop), collaborating with backend and infra teams on cross-team architecture, planning, and implementation
 - **Reduced Desktop App memory usage from 80MB to 15MB per user session** (80% improvement) by architecting and reimplementing client stores using DDD principles
@@ -46,23 +46,31 @@ I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofi
 
 ### Software Development Engineer II - [@Amazon](https://amazon.com)
 
-> 1.5y – Jan/2022 – Jun/2023 – São Paulo, SP – Brazil
+> Oct/2019 – Mar/2021 | São Paulo, SP, Brazil
 
-- Implemented the invoice issuance system (FBA program - Fulfillment by Amazon), ensuring compliance with Brazilian fiscal regulations, eliminating manual processes, and reducingthe risk for sellers
+- **Implemented automated FBA invoice emission system** ensuring compliance with Brazilian fiscal regulations, processing 14k invoices/month for initial test group of 200 sellers
 - Built real-time monitoring and alerts for invoice generation, significantly reducing the time to fix issues and delays
-- Developed two micro frontend apps, integrated into Amazon Brasil's main site (millions of daily visits) and Amazon backoffice application for sellers, enabling them to automate their invoice issuance
+- **Developed 2 micro frontend apps**, integrated into Amazon Brasil's main site (millions of daily visits), enabling independent feature delivery and reducing deployment time from weeks to days
 
-### Other Cool Experiences
+## Other Notable Experiences
 
-- 1y (Jan/2020 – Dec/2020) - Sr Software Engineer at [@Able](https://able.co)
+- **11m (Jun/2023 – Apr/2024)** - Sr Software Engineer at [@Able](https://able.co)
    - Built internal CRM for client and project management, improving operational efficiency and team communication
    - **Integrated Twilio VoIP service**, automating 82% of 10k support calls/month (only 1,800 required human assistance)
    - Developed healthcare facility mapping platform (clinics, nursing homes, healthcare services) for easy health service discovery
 
-- 2y (Nov/2018 – Oct/2020) - Team Lead & Software Engineer at [@SmarttBot](https://smarttbot.com)
+- **1.3y (Jun/2018 – Sep/2019)** - Tech Lead & Software Engineer at [@SmarttBot](https://smarttbot.com)
    - Led team of 4 engineers on platform development and delivery
    - **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
    - **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
+
+- **8m (Nov/2017 – Jun/2018)** - Tech Lead - Software Engineer at [@Inkitt](https://inkitt.com)
+   - Led tech strategy for book publishing platform connecting authors and readers
+   - Implemented predictive analytics to identify bestseller potential based on reader interaction
+
+- **2y (Nov/2015 – Nov/2017)** - Full Stack Engineer at [@SmarttBot](https://smarttbot.com)
+   - Developed web and mobile applications for algorithmic stock trading platform
+   - Served as Scrum Master for Web Development Team
 
 Check the complete working history on my [LinkedIn](https://linkedin.com/in/masouzajunior)
 

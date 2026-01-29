@@ -28,7 +28,7 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 
 ## Most Relevant Experiences
 
-### Sr Software Engineer - Solutions Architect at MongoDB
+### Sr Software Development Engineer at MongoDB
 
 **Apr/2024 – present | New York, NY (Remote from Brazil)**
 
@@ -37,9 +37,9 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 - **Implemented Feature Flags system** serving 11M+ users/month, enabling safer deployments and reducing rollback time from minutes to seconds
 - Integrated E2E tests with Visual Regression Testing, improving feature reliability and quality assurance
 
-### Technical Lead - Software Engineer at Paradigm
+### Tech Lead - Software Engineer at Paradigm
 
-**Jul/2021 – Nov/2023 | New York, NY (Remote from Brazil)**
+**Jan/2021 – May/2023 | New York, NY (Remote from Brazil)**
 
 - **Led team of 6 engineers** (web, mobile, desktop), collaborating with backend and infra teams on cross-team architecture, planning, and implementation
 - **Reduced desktop app memory usage from 80MB to 15MB per user session** (80% improvement) by architecting and reimplementing client stores using DDD principles
@@ -49,28 +49,44 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 
 ### Software Development Engineer II at Amazon
 
-**Jan/2022 – Jun/2023 | São Paulo, SP, Brazil**
+**Oct/2019 – Mar/2021 | São Paulo, SP, Brazil**
 
-- **Implemented automated FBA invoice emission system** ensuring compliance with Brazilian fiscal regulations, eliminating manual processes and reducing risk of fines
+- **Implemented automated FBA invoice emission system** ensuring compliance with Brazilian fiscal regulations, processing 14k invoices/month for initial test group of 200 sellers
 - **Built real-time monitoring and alerts** for invoice generation, significantly reducing errors and delays
 - **Developed 2 micro frontend apps** integrated into Amazon Brasil's main site (millions of daily visits), enabling independent feature delivery and reducing deployment time from weeks to days
 
+## Other Notable Experiences
+
 ### Sr Software Engineer at Able
 
-**Jan/2020 – Dec/2020**
+**Jun/2023 – Apr/2024 | New York, NY (Remote from Brazil)**
 
 - Built internal CRM for client and project management, improving operational efficiency and team communication
 - **Integrated Twilio VoIP service**, automating 82% of 10k support calls/month (only 1,800 required human assistance)
 - Developed healthcare facility mapping platform (clinics, nursing homes, healthcare services) for easy health service discovery
 
-### Team Lead & Software Engineer at SmarttBot
+### Tech Lead - Software Engineer at SmarttBot
 
-**Nov/2018 – Oct/2020**
+**Jun/2018 – Sep/2019 | Belo Horizonte, MG, Brazil**
 
 - Led team of 4 engineers on platform development and delivery
 - **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
 - **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
 - Spearheaded Mobile App R&D and initial implementation, expanding platform reach to on-the-go users
+
+### Tech Lead - Software Engineer at Inkitt
+
+**Nov/2017 – Jun/2018 | Berlin, Germany**
+
+- Led tech strategy for book publishing platform connecting authors and readers
+- Implemented predictive analytics to identify bestseller potential based on reader interaction
+
+### Full Stack Engineer at SmarttBot
+
+**Nov/2015 – Nov/2017 | Belo Horizonte, MG, Brazil**
+
+- Developed web and mobile applications for algorithmic stock trading platform
+- Served as Scrum Master for Web Development Team
 
 ---
 
