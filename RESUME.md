@@ -12,11 +12,11 @@ I'm Marco, a software developer passionate about building tools that make a diff
 
 Since **2009**, I've been looking for new challenges and ways to improve my skills and the world around me! I've developed a broad skill set that includes TypeScript, Python, Golang, Lua, Java, Kotlin, and Elixir. Whether working on a new project or mentoring others, I'm driven by a desire to make a positive impact.
 
-I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofit learning community that believes tech education should be inclusive and accessible to all, and we're committed to making that a reality in Brazil and beyond.
+I'm also the founder and leader of [PodCodar](https://podcodar.org) - a nonprofit learning community that believes tech education should be inclusive and accessible to all, and we're committed to making that a reality in Brazil and beyond.
 
 ## Let's grab a coffee
 
-[GitHub](https://github.com/marco-souza) | [Linkedin](https://linkedin.com/in/masouzajunior) | [StackOverlfow](https://stackoverflow.com/users/7988674/marco-antônio)
+[GitHub](https://github.com/marco-souza) | [Linkedin](https://linkedin.com/in/masouzajunior) | [StackOverflow](https://stackoverflow.com/users/7988674/marco-antônio)
 
 ## Most Relevant experiences
 
@@ -28,6 +28,7 @@ I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofi
 - **Reduced CI/CD pipeline execution time from 15 to 3 minutes** (5x improvement), increasing deployment frequency and enhancing code quality
 - **Implemented Feature Flags system** serving 11M+ users/month, enabling safer deployments and reducing rollback time from minutes to seconds
 - Integrated E2E tests with Visual Regression Testing, improving feature reliability and quality assurance
+- **Integrated services to the Service Mesh Network** and created API Gateways, enabling the team to migrate pages 20% faster and reducing 1 day from the release process
 
 ### Tech Lead - Software Engineer - [@Paradigm](https://paradigm.co)
 
@@ -50,19 +51,16 @@ I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofi
 ## Other Notable Experiences
 
 - **11m (Jun/2023 – Apr/2024)** - Sr Software Engineer at [@Able](https://able.co)
-  - Built internal CRM for client and project management, improving operational efficiency and team communication
-  - **Integrated Twilio VoIP service**, automating 82% of 10k support calls/month (only 1,800 required human assistance)
-  - Developed healthcare facility mapping platform (clinics, nursing homes, healthcare services) for easy health service discovery
+   - Built internal CRM for client and project management, improving operational efficiency and team communication
+   - **Integrated Twilio VoIP service**, automating 82% of 10k support calls/month (only 1,800 required human assistance)
+   - Developed healthcare facility mapping platform (clinics, nursing homes, healthcare services) for easy health service discovery
 
-- **1.3y (Jun/2018 – Sep/2019)** - Tech Lead & Software Engineer at [@SmarttBot](https://smarttbot.com)
-  - Led team of 4 engineers on platform development and delivery
-  - **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
-  - **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
-
-- **4y (Nov/2015 – Sep/2019)** - Software Engineer at [@SmarttBot](https://smarttbot.com)
-  - Developed web and mobile applications for algorithmic stock trading platform
-  - Served as Scrum Master for Web Development Team
-  - Led team of 4 engineers on platform development and delivery
+- **4y (Nov/2015 – Sep/2019)** - Software Engineer & Tech Lead at [@SmarttBot](https://smarttbot.com)
+   - Developed web and mobile applications for algorithmic stock trading platform
+   - Served as Scrum Master for Web Development Team
+   - Led team of 4 engineers on platform development and delivery
+   - **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
+   - **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
 
 Check the complete working history on my [LinkedIn](https://linkedin.com/in/masouzajunior)
 

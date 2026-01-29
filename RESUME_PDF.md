@@ -5,7 +5,7 @@
 **Full-Stack Developer** | 16 years of experience
 
 > **Contact:**
-> [GitHub](https://github.com/marco-souza) | [Linkedin](https://linkedin.com/in/masouzajunior) | [StackOverlfow](https://stackoverflow.com/users/7988674/marco-antônio)
+> [GitHub](https://github.com/marco-souza) | [Linkedin](https://linkedin.com/in/masouzajunior) | [StackOverflow](https://stackoverflow.com/users/7988674/marco-antônio)
 
 ---
 
