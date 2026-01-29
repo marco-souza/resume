@@ -64,13 +64,10 @@ I'm also the founder and leader of [PodCodar](https://podcodar.com) - a nonprofi
    - **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
    - **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
 
-- **8m (Nov/2017 – Jun/2018)** - Tech Lead - Software Engineer at [@Inkitt](https://inkitt.com)
-   - Led tech strategy for book publishing platform connecting authors and readers
-   - Implemented predictive analytics to identify bestseller potential based on reader interaction
-
-- **2y (Nov/2015 – Nov/2017)** - Full Stack Engineer at [@SmarttBot](https://smarttbot.com)
+- **4y (Nov/2015 – Sep/2019)** - Software Engineer at [@SmarttBot](https://smarttbot.com)
    - Developed web and mobile applications for algorithmic stock trading platform
    - Served as Scrum Master for Web Development Team
+   - Led team of 4 engineers on platform development and delivery
 
 Check the complete working history on my [LinkedIn](https://linkedin.com/in/masouzajunior)
 

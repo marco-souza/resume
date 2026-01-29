@@ -65,27 +65,15 @@ I'm also the founder and leader of PodCodar - a nonprofit learning community tha
 - **Integrated Twilio VoIP service**, automating 82% of 10k support calls/month (only 1,800 required human assistance)
 - Developed healthcare facility mapping platform (clinics, nursing homes, healthcare services) for easy health service discovery
 
-### Tech Lead - Software Engineer at SmarttBot
+### Software Engineer at SmarttBot
 
-**Jun/2018 – Sep/2019 | Belo Horizonte, MG, Brazil**
-
-- Led team of 4 engineers on platform development and delivery
-- **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
-- **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
-
-### Tech Lead - Software Engineer at Inkitt
-
-**Nov/2017 – Jun/2018 | Berlin, Germany**
-
-- Led tech strategy for book publishing platform connecting authors and readers
-- Implemented predictive analytics to identify bestseller potential based on reader interaction
-
-### Full Stack Engineer at SmarttBot
-
-**Nov/2015 – Nov/2017 | Belo Horizonte, MG, Brazil**
+**Nov/2015 – Sep/2019 | Belo Horizonte, MG, Brazil**
 
 - Developed web and mobile applications for algorithmic stock trading platform
 - Served as Scrum Master for Web Development Team
+- Led team of 4 engineers on platform development and delivery
+- **Migrated app from Angular to React.js**, reducing memory usage from 200MB to 92MB and page load time from 3.5s to 1.5s (57% improvement)
+- **Implemented Progressive Web App (PWA)**, increasing time-spent-in-app by 18% compared to web version
 
 ---
 

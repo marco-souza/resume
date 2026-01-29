@@ -175,32 +175,7 @@ Jun/2018 – Sep/2019 | Belo Horizonte, MG, Brazil
 
 ---
 
-## Inkitt
-**Tech Lead - Software Engineer**  
-Nov/2017 – Jun/2018 | Berlin, Germany
 
-### Context
-- Book publishing platform connecting authors and readers
-- Predictive analytics for bestseller identification
-
-### Key Responsibility
-- Led tech strategy for platform development
-
----
-
-## SmarttBot (Full Stack)
-**Full Stack Engineer**  
-Nov/2015 – Nov/2017 | Belo Horizonte, MG, Brazil
-
-### Context
-- Algorithmic stock trading platform
-- Web and mobile application development
-
-### Key Responsibility
-- Scrum Master for Web Development Team
-- Full-stack feature development
-
----
 
 ## Summary by Focus Area
 
